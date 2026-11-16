@@ -3723,14 +3723,40 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
-      "owner": [],
+      "owner": [
+        {
+          "value": "Advanced Symbolics (2015) Inc., Ottawa; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.askpolly.ai/wp-content/uploads/2025/07/askpolly-Privacy-Policy.pdf",
+          "quote": "Advanced Symbolics (2015) Inc., 109 York St., Ottawa, ON K1N 5T4",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
       "data": [],
       "models": [],
       "law": [],
-      "languages": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.askpolly.ai/",
+          "quote": "Measurement to inform your brand’s future.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
       "contact": [
         {
           "value": "Ottawa phone, support email and address",
@@ -3845,7 +3871,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -3919,7 +3945,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
@@ -3940,7 +3966,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Privacy email and Edmonton mailing address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://altaml.com/privacy-policy",
+          "quote": "Email: privacy@altaml.com Mail: AltaML Inc., #2200, 10130 103 Street, Edmonton, Alberta, T5J 3N9",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4343,7 +4385,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -4429,7 +4471,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
@@ -4450,7 +4492,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://beaucoupdata.co/contact",
+          "quote": "Let's chat!",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4573,7 +4631,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
@@ -4594,7 +4652,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Contact link that opens email; no phone shown",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.braiyt.ai/",
+          "quote": "Contact",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4618,7 +4692,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
@@ -4639,7 +4713,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "info@cloudthrill.ca and a contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://cloudthrill.ca/contact-us",
+          "quote": "info@cloudthrill.ca",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4663,7 +4753,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -4680,9 +4770,35 @@
           }
         }
       ],
-      "data": [],
+      "data": [
+        {
+          "value": "Website data stored and processed mainly in India",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.csm.tech/about-us/privacy-policy",
+          "quote": "Personal data collected through the Website is primarily stored and processed in India.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
       "models": [],
-      "law": [],
+      "law": [
+        {
+          "value": "India's Digital Personal Data Protection Act, 2023",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.csm.tech/about-us/privacy-policy",
+          "quote": "the Digital Personal Data Protection Act, 2023 (“DPDP Act”)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
       "languages": [
         {
           "value": "en",
@@ -4697,7 +4813,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Indian phone and email; Bhubaneswar HQ",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.csm.tech/contact-us",
+          "quote": "+91(0)-674-6635900",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4779,13 +4911,26 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
       "data": [],
       "models": [],
-      "law": [],
+      "law": [
+        {
+          "value": "PIPEDA and Canada’s Anti-Spam Law",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.esri.ca/en-ca/legal/privacy",
+          "quote": "Our policy was developed considering the Canadian Personal Information Protection and Electronic Documents Act, and Canada’s Anti-Spam Law and good industry practices.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
       "languages": [
         {
           "value": "en",
@@ -4812,7 +4957,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Toronto mailing address for privacy questions",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.esri.ca/en-ca/legal/privacy",
+          "quote": "or by mail to 12 Concorde Place, Suite 900, Toronto ON",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -4907,7 +5068,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -4981,7 +5142,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -5648,7 +5809,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -5682,7 +5843,23 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Ottawa mailing address on the privacy page",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://risksciences.com/privacy-policy/",
+          "quote": "Ottawa ON K1Z 7T1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
@@ -5706,7 +5883,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [
@@ -5864,7 +6041,7 @@
     ],
     "jobsBoard": null,
     "newsroom": null,
-    "readAt": null,
+    "readAt": "2026-11-15",
     "products": [],
     "facts": {
       "owner": [],
@@ -5885,7 +6062,123 @@
           }
         }
       ],
-      "contact": []
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.stonemeadow-consulting.com/contact-us",
+          "quote": "SUBMIT",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Blue J Legal Inc.",
+    "slug": "blue-j-legal-inc",
+    "site": "https://www.bluej.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - Legal",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto, Ontario office; ownership not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bluej.com/",
+          "quote": "225 King Street West, Suite 1405 Toronto, Ontario M5V 3M2",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in countries where Blue J and its providers operate; location not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bluej.com/privacy-notice",
+          "quote": "may be transferred to and stored in countries outside of the jurisdiction you are in where we and our third-party service providers have operations",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA applies to personal data Blue J collects in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.bluej.com/privacy-notice",
+          "quote": "Personal data, as defined in the Personal Information Protection and Electronic Documents Act (“PIPEDA”) will be collected, stored, used, and/or processed by Blue J in accordance with Blue J’s obligations under PIPEDA.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.bluej.com/",
+          "quote": "Tax research you can rely on",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@bluej.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bluej.com/privacy-notice",
+          "quote": "please contact us by email at info@bluej.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
     }
   },
   {
