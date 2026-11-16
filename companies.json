@@ -6162,6 +6162,464 @@
     }
   },
   {
+    "name": "Hootsuite",
+    "slug": "hootsuite",
+    "site": "https://www.hootsuite.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Social Media Management",
+      "stage": "Enterprise",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "BestStartup",
+        "title": "36 Canadian Unicorn Startups in 2026",
+        "url": "https://beststartup.ca/canada-unicorn-startups/",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": "https://careers.hootsuite.com/",
+    "newsroom": "https://www.hootsuite.com/newsroom",
+    "readAt": "2026-11-15",
+    "products": [
+      {
+        "name": "Wisdom",
+        "url": "https://www.hootsuite.com/wisdom-ai",
+        "group": "chat-writing",
+        "alternativeTo": [
+          "Jasper",
+          "ChatGPT"
+        ],
+        "does": {
+          "value": "Turns insights into social posts, campaign ideas and captions",
+          "url": "https://www.hootsuite.com/wisdom-ai",
+          "quote": "Turn insights into ready-to-review social posts, campaign ideas, content briefs, images, and captions in seconds.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "price": {
+          "value": "In every plan; Standard: US$99 a user a month, billed annually",
+          "url": "https://www.hootsuite.com/plans",
+          "quote": "$99",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "readAt": "2026-11-15"
+      }
+    ],
+    "facts": {
+      "owner": [
+        {
+          "value": "Headquartered in Canada; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hootsuite.com/legal/privacy",
+          "quote": "Our Services are managed by Hootsuite’s headquarters in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Personal data may go to Canada, the US or other countries",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.hootsuite.com/legal/privacy",
+          "quote": "We rely on adequacy (if sent to Canada), and the EU-US Data Privacy Framework (“DPF”), the UK extension to the EU-US DPF, the Swiss-US DPF, or standard contractual clauses (“SCCs”), if sent to the US or onward to other countries",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR and UK data protection laws",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hootsuite.com/legal/privacy",
+          "quote": "GDPR and UK data protection laws",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "CCPA and other US state privacy laws",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hootsuite.com/legal/privacy",
+          "quote": "we make available a DPA to address requirements under the CCPA and other US State privacy laws.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hootsuite.com/about/contact-us",
+          "quote": "English, French and Spanish",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hootsuite.com/about/contact-us",
+          "quote": "English, French and Spanish",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Vancouver street address; privacy@hootsuite.com",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hootsuite.com/legal/privacy",
+          "quote": "111 East 5th Avenue",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Tali AI",
+    "slug": "tali-ai",
+    "site": "https://tali.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Clinical Documentation",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "Supply Ontario",
+        "title": "Vendor of Record: AI Scribe Solution (Tender-20123)",
+        "url": "https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/VORDetails?OpenForm&Seq=1&Lang=EN&unid=665039350D6BB01085258CCA0047C324",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [
+      {
+        "name": "Tali AI Scribe",
+        "url": "https://tali.ai/platform/ai-scribe",
+        "group": "team-docs",
+        "alternativeTo": [
+          "Otter"
+        ],
+        "does": {
+          "value": "Scribe, search and EMR tools that cut a physician's admin work",
+          "url": "https://tali.ai/platform/ai-scribe",
+          "quote": "Tali’s scribe, search, and EMR tools help physicians spend less time on admin work.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "price": {
+          "value": "Starter plan: from CA$60 a month",
+          "url": "https://tali.ai/pricing",
+          "quote": "$60",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "readAt": "2026-11-15"
+      }
+    ],
+    "facts": {
+      "owner": [
+        {
+          "value": "Operated by 11855760 Canada Inc.; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://tali.ai/privacy-policy",
+          "quote": "11855760 Canada Inc. (dba Tali AI)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Health information is stored in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://tali.ai/platform/ai-scribe",
+          "quote": "All protected health information is stored in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "In Canada if you choose Canada at sign-up; else the US",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://tali.ai/privacy-policy",
+          "quote": "If the user chooses Canada as their country, then data is stored in Canada and the AI Service Providers will store their data in Canada. If the user does not choose Canada as their country, then data is stored in the United States",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA, PHIPA, PIPA, HIA and the US law HIPAA",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://tali.ai/security-privacy",
+          "quote": "fully compliant with major privacy and health data regulations, including:PIPA (Personal Information Protection Act), PHIPA (Personal Health Information Protection Act), PIPEDA (Personal Information Protection and Electronic Documents Act), HIA (Health Information Act), HIPAA (Health Insurance Portability and Accountability Act)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://help.tali.ai/en/articles/8652560-where-are-you-located",
+          "quote": "Our head office is located in Toronto, Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://help.tali.ai/fr/articles/o%C3%B9-%C3%AAtes-vous-situ%C3%A9-tali-ai-knowledge-base",
+          "quote": "Notre siège social se trouve à Toronto, au Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "contact@tali.ai (email and forms only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://tali.ai/privacy-policy",
+          "quote": "Contacting us via email at contact@tali.ai.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Scribeberry",
+    "slug": "scribeberry",
+    "site": "https://scribeberry.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Clinical Documentation",
+      "stage": "Startup",
+      "hq": "Edmonton",
+      "province": "AB"
+    },
+    "listings": [
+      {
+        "name": "Supply Ontario",
+        "title": "Vendor of Record: AI Scribe Solution (Tender-20123)",
+        "url": "https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/VORDetails?OpenForm&Seq=1&Lang=EN&unid=665039350D6BB01085258CCA0047C324",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [
+      {
+        "name": "Scribeberry",
+        "url": "https://scribeberry.com/",
+        "group": "team-docs",
+        "alternativeTo": [
+          "Otter"
+        ],
+        "does": {
+          "value": "Writes clinical notes, letters and forms from patient conversations",
+          "url": "https://scribeberry.com/",
+          "quote": "AI-powered clinical notes, letters, and forms from patient conversations.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "price": {
+          "value": "Pro plan: $99 a month for unlimited notes; free to try",
+          "url": "https://scribeberry.com/pricing",
+          "quote": "When you’re ready, Pro is $99 a month for unlimited notes, dictation and forms.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "readAt": "2026-11-15"
+      }
+    ],
+    "facts": {
+      "owner": [
+        {
+          "value": "A Canadian team; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://scribeberry.com/about",
+          "quote": "We’re a Canadian team making everyday clinical work a little lighter, and we’ve been building Scribeberry since 2023.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in Canada: Toronto, Edmonton or Montréal",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://scribeberry.com/privacy-policy",
+          "quote": "Data processed is stored within Canada either in Toronto, Edmonton, or Montreal",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Its own hosted models or third-party AI; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://scribeberry.com/terms",
+          "quote": "These third party services may be utilized (independent of our own self-hosted service) depending on provider location",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "PIPEDA, PHIPA, Quebec Law 25 and the US law HIPAA",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://scribeberry.com/product/security",
+          "quote": "HIPAA, PIPEDA and provincial laws such as Ontario’s PHIPA and Quebec’s Law 25",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://scribeberry.com/",
+          "quote": "English and French notes, French support and onboarding",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://scribeberry.com/",
+          "quote": "English and French notes, French support and onboarding",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "hello@scribeberry.com (email and chat only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://scribeberry.com/privacy-policy",
+          "quote": "Email: hello@scribeberry.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
     "name": "Tenstorrent",
     "slug": "tenstorrent",
     "site": "https://tenstorrent.com",
