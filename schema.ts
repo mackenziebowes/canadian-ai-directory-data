@@ -28,6 +28,8 @@ export const GROUPS = ["chat-writing", "team-docs", "model", "clinic-notes", "im
 export type Group = (typeof GROUPS)[number]
 export const TOOLS = ["ChatGPT", "Microsoft Copilot", "Otter", "Grammarly", "Midjourney", "Google Gemini", "Claude", "Notion AI", "Zoom AI Companion", "Jasper", "Fireflies"] as const // the tools the alternatives pages answer; one list, Pennant's
 export type Tool = (typeof TOOLS)[number]
+/** How each tool is named on its page and in its address: "Otter" is searched as "Otter.ai". One entry a tool, so a new tool in TOOLS needs its name here. */
+export const TOOL_NAME: Record<Tool, string> = { ChatGPT: "ChatGPT", "Microsoft Copilot": "Microsoft Copilot", Otter: "Otter.ai", Grammarly: "Grammarly", Midjourney: "Midjourney", "Google Gemini": "Google Gemini", Claude: "Claude", "Notion AI": "Notion AI", "Zoom AI Companion": "Zoom AI Companion", Jasper: "Jasper", Fireflies: "Fireflies" }
 export type ProductFact = Omit<Fact, "mark">
 export type Product = { name: string; url: Url; group: Group; alternativeTo: Tool[]; does: ProductFact; price: ProductFact; readAt: IsoDate }
 export type Listing = { name: string; title: string; url: Url; checkedAt: IsoDate }
@@ -64,6 +66,9 @@ export function cleanPhone(s: string): Phone | null {
   if (d.length === 11 && d.startsWith("1")) d = d.slice(1)
   return d.length === 10 ? d : null
 }
+
+/** A famous tool read on the same six questions (#4709), for the lineup's first row on its alternatives page. It is not a company in the directory: no profile, no page, never counted. */
+export type Compared = { name: string; slug: string; tool: Tool; site: Url; privacy: Url; readAt: IsoDate; facts: Rec["facts"] }
 
 type Obj = Record<string, unknown>
 const isObj = (v: unknown): v is Obj => typeof v === "object" && v !== null && !Array.isArray(v)
@@ -135,5 +140,25 @@ export function parseRecords(raw: unknown): Rec[] {
       for (const k of ["does", "price"]) parseFact(slug, `${at}.${k}`, p[k], "product")
     })
     return r as unknown as Rec
+  })
+}
+
+export function parseCompared(raw: unknown): Compared[] {
+  if (!Array.isArray(raw)) throw new SchemaError({ slug: "-", field: "", got: typeof raw, rule: "is an array of compared records" })
+  return raw.map((r, i) => {
+    const slug = isObj(r) && typeof r.slug === "string" ? r.slug : `#${i}`
+    const bad = (field: string, got: unknown, rule: string): never => { throw new SchemaError({ slug, field, got, rule }) }
+    if (!isObj(r)) return bad("", r, "is an object")
+    if (typeof r.name !== "string" || r.name === "") bad("name", r.name, "is a non-empty string")
+    if (!(TOOLS as readonly unknown[]).includes(r.tool)) bad("tool", r.tool, `is one of ${TOOLS.join(", ")}`)
+    for (const k of ["site", "privacy"]) if (!isUrl(r[k])) bad(k, r[k], "is an https url")
+    if (!isDate(r.readAt)) bad("readAt", r.readAt, "is YYYY-MM-DD")
+    if (!isObj(r.facts)) return bad("facts", r.facts, "is an object")
+    for (const key of FACT_KEYS) {
+      const list = r.facts[key]
+      if (!Array.isArray(list)) bad(`facts.${key}`, list, "is a list")
+      ;(list as unknown[]).forEach((f, j) => parseFact(slug, `facts.${key}[${j}]`, f, key))
+    }
+    return r as unknown as Compared
   })
 }
