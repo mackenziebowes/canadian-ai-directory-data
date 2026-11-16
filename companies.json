@@ -3703,6 +3703,2562 @@
     }
   },
   {
+    "name": "C-CORE",
+    "slug": "c-core",
+    "site": "https://c-core.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Midsize",
+      "hq": "St. John’s",
+      "province": "NL"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://c-core.ca/working-at-c-core/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "St. John’s-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://c-core.ca/",
+          "quote": "Headquartered in St John’s NL, with an office in Ottawa ON",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA and provincial privacy laws",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://c-core.ca/privacy-policy/",
+          "quote": "We comply with Canada’s Personal Information Protection and Electronic Documents Act (PIPEDA) and applicable provincial privacy laws.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://c-core.ca/",
+          "quote": "Since 1975 C-CORE has provided research-based advisory services and technology solutions to mitigate operational risk and help clients improve safety, efficiency and cost-effectiveness in remote or challenging environments worldwide.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "St. John’s phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://c-core.ca/",
+          "quote": "T (709) 864-8354",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "7098648354"
+        }
+      ]
+    }
+  },
+  {
+    "name": "CGI Information Systems and Management Consultants Inc.",
+    "slug": "cgi-information-systems-and-management-consultants",
+    "site": "https://www.cgi.com/canada/en-ca",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.cgi.com/canada/en-ca/careers",
+    "newsroom": "https://www.cgi.com/canada/en-ca/mediacenter/blogs",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Public, listed on the TSX and NYSE (GIB.A, GIB)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.cgi.com/en/investors/investor-stock-information",
+          "quote": "GIB.A (TSX) GIB (NYSE)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "Founded in Canada; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.cgi.com/canada/en-ca",
+          "quote": "Founded in Canada in 1976, CGI has grown into one of the largest IT and business consulting services firms in the world.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.cgi.com/canada/en-ca",
+          "quote": "Founded in Canada in 1976, CGI has grown into one of the largest IT and business consulting services firms in the world.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.cgi.com/canada/fr-ca",
+          "quote": "Découvrez comment les dirigeants accélèrent la transformation par l’IA, modernisent leurs fondations technologiques et génèrent des résultats mesurables.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.cgi.com/en/contact-us",
+          "quote": "To submit a question or request, please fill out the form.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Calian Ltd.",
+    "slug": "calian-ltd",
+    "site": "https://www.calian.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Public",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://careers.calian.com/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Public, listed on the TSX (CGY)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://investors.calian.com/app/uploads/sites/2/2026/02/Q3-FY26-Press-Release-EN.pdf",
+          "quote": "Calian Group Ltd. (TSX:CGY)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "Ottawa-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.calian.com/privacy-policy/",
+          "quote": "Calian Ltd., headquartered at 770 Palladium Drive, Ottawa, Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Website data processed mainly in Canada",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.calian.com/privacy-policy/",
+          "quote": "Your personal data collected through this website will primarily be processed in Canada by Calian.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR (UK and EU)",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.calian.com/privacy-policy/",
+          "quote": "Calian complies with the General Data Protection Regulation (GDPR) of United Kingdom (UK) and European Union (EU).",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.calian.com/",
+          "quote": "For over 40 years, Calian has delivered mission-critical solutions when failure is not an option.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toll-free line",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.calian.com/privacy-policy/",
+          "quote": "Toll Free 1.877.225.4264",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8772254264"
+        },
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.calian.com/privacy-policy/",
+          "quote": "770 Palladium Drive, Ottawa, Ontario K2V 1C8",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chillwall AI",
+    "slug": "chillwall-ai",
+    "site": "https://www.chillwall.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Canadian corporation, Toronto; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.chillwall.ai/privacy",
+          "quote": "owned and operated by Chillwall Inc., operating as Chillwall AI, a Canadian corporation having its registered address at 725 College Street, College Square, Toronto Ontario, M6G 4A7.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Ontario, or countries with like privacy laws",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.chillwall.ai/privacy",
+          "quote": "Any information You provide to the Company through use of the Product may be stored and processed, transferred between and accessed from either: (1) Ontario, Canada, or (2) other countries/jurisdiction that have similar privacy standards as those in Ontario, Canada, but which may not guarantee the same level of protection of personal data as the jurisdiction in which you reside.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Ontario’s PHIPA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.chillwall.ai/privacy",
+          "quote": "In Canada, the Company is a service provider and may act as a service provider, information manager or electronic service provider under applicable privacy legislation, including Ontario’s Personal Health Information Protection Act (PHIPA) regulations (the “Applicable Laws”).",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.chillwall.ai/",
+          "quote": "The first visual AI Super Agent for Hotels and Destinations turning visitor intent into high‑margin revenue.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.chillwall.ai/",
+          "quote": "101 College Street Toronto, ON M5G 1L7",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "hello@chillwall.ai (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.chillwall.ai/",
+          "quote": "hello@chillwall.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cistel Technology Inc.",
+    "slug": "cistel-technology-inc",
+    "site": "https://cistel.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Midsize",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://cistel.com/job-board/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ottawa-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://cistel.com/",
+          "quote": "We are Ottawa’s premier IT staffing and consulting firm for 28 years",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://cistel.com/",
+          "quote": "Cistel provides a complete portfolio empowering the Lifecycle of Digital Modernization.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://cistel.com/",
+          "quote": "(613) 723-8344",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6137238344"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Compass Analytics",
+    "slug": "compass-analytics",
+    "site": "https://compass-analytics.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Laval",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Vancouver office; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://compass-analytics.ca/contact/",
+          "quote": "Vancouver, BC, V6H 0H1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://compass-analytics.ca/",
+          "quote": "AI-powered platforms to reduce operational cost, improve production throughput, and prevent human error in operation of process equipment.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Vancouver office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://compass-analytics.ca/contact/",
+          "quote": "Vancouver, BC, V6H 0H1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Contextere Corporation",
+    "slug": "contextere-corporation",
+    "site": "https://contextere.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - Industrial",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": "https://contextere.com/newsroom/",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "In Canada, the US or other countries",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://contextere.com/wp-primary/wp-content/uploads/CXE-Privacy-Security-Policy-1.pdf",
+          "quote": "countries other than the country where the data were originally collected, including Canada, the",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://contextere.com/wp-primary/wp-content/uploads/CXE-Privacy-Security-Policy-1.pdf",
+          "quote": "Data Protection Regulation (EU Regulation 2016/679, the “GDPR”).",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://contextere.com/",
+          "quote": "Contextere is an industrial AI software company dedicated to transforming the industrial workplace by empowering blue-collar workers with the skills, tools, and knowledge",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://contextere.com/company/",
+          "quote": "Ottawa, ON, Canada K1Y 2C5",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Crater Labs Inc.",
+    "slug": "crater-labs-inc",
+    "site": "https://craterlabs.io/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://craterlabs.io/careers/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://craterlabs.io/about/",
+          "quote": "We’re an industry-leading, Toronto-based AI and machine learning research laboratory.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "With service providers in Canada and the US",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://craterlabs.io/privacy-policy/",
+          "quote": "Our service providers are located in Canada and the United States",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://craterlabs.io/",
+          "quote": "We use artificial intelligence and your data to drive growth and unlock cost-savings for your business.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://craterlabs.io/about/",
+          "quote": "365 Bloor Street East, Suite 1003, Toronto, ON, M4W3L4, Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Cybercloud AI",
+    "slug": "cybercloud-ai",
+    "site": "https://www.cybercloud-ai.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Calgary",
+      "province": "AB"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Indigenous-led company; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.cybercloud-ai.com/",
+          "quote": "Indigenous-led company collaborates with AMD",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Kept in Canada (Canadian data residency)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.cybercloud-ai.com/",
+          "quote": "End-to-end security measures create a robust, proactive ecosystem to protect your data while ensuring Indigenous governance and Canadian data residency.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "In its own datacentres in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.cybercloud-ai.com/",
+          "quote": "Our datacentres combine performance-optimized features that maximize efficiency and uptime, making them among the most sustainable AI-ready datacentres in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.cybercloud-ai.com/",
+          "quote": "Indigenous Sovereign AI Factory — Transform your business with AI",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@cybercloud-ai.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.cybercloud-ai.com/contact",
+          "quote": "info@cybercloud-ai.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "D2D Analytics Inc.",
+    "slug": "d2d-analytics-inc",
+    "site": "https://www.d2danalytics.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "Data Solutions",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.d2danalytics.com/",
+          "quote": "D2D Analytics partners with you to modernize your operations through customized data solutions and intelligent technologies.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.d2danalytics.com/contact/",
+          "quote": "Send Us a Message Anytime!",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "DXC Technology Company",
+    "slug": "dxc-technology-company",
+    "site": "https://dxc.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Services",
+      "stage": "Public",
+      "hq": "Washington DC, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://careers.dxc.com/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Public, listed on the NYSE (DXC)",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://dxc.com/",
+          "quote": "DXC Technology (NYSE: DXC) is a leading enterprise technology and innovation partner",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Anywhere in the DXC group worldwide",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://dxc.com/privacy",
+          "quote": "on the transfer and processing of Personal Data within the DXC group worldwide",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://dxc.com/",
+          "quote": "DXC OASIS unites human expertise and agentic AI to deliver managed IT services — with real-time visibility, action and accountability.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "privacy@dxc.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://dxc.com/privacy",
+          "quote": "privacy@dxc.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Deetken Insight",
+    "slug": "deetken-insight",
+    "site": "https://deetken.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Midsize",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://deetken.com/careers/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Vancouver-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://deetken.com/careers/",
+          "quote": "#500 – 210 W. Broadway, Vancouver, BC, V5Y 3W2",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://deetken.com/",
+          "quote": "Deetken Insight is a strategy advisory firm that collaborates with our clients to solve complex and sensitive business challenges.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Vancouver phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://deetken.com/",
+          "quote": "+1 (604) 731-4424",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6047314424"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Code4Thought P.C.",
+    "slug": "code4thought-p-c",
+    "site": "https://code4thought.eu/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Startup",
+      "hq": "Patras, Greece",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Greek company, Patras",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://code4thought.eu/privacy-statement/",
+          "quote": "The company “code4thought P.C.”, with registered seat at Patras, Greece",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In or outside the EU, or in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://code4thought.eu/privacy-statement/",
+          "quote": "Your personal data may be stored and processed both within and outside of the EU and/or the United States.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR and Greek law 4624/2019",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://code4thought.eu/privacy-statement/",
+          "quote": "including any national implementing laws and regulations such as Greek law 4624/2019",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://code4thought.eu/",
+          "quote": "We help organizations to govern any type of AI-based system at every stage of their life cycle.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Patras office address (Greece)",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://code4thought.eu/contact-us/",
+          "quote": "4 Kyprou Street",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Diligen Inc.",
+    "slug": "diligen-inc",
+    "site": "https://www.diligen.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - Legal",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": "https://www.diligen.com/blog/",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.diligen.com/blog/",
+          "quote": "Diligen, the Toronto-based award winning machine learning software for contract review",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In the US and other countries",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.diligen.com/privacypolicy/",
+          "quote": "you consent to the processing and transfer of information in and to the U.S. and other countries and territories",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.diligen.com/",
+          "quote": "Identify key provisions, generate contract summaries and help your team manage review with machine learning powered analysis",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toll-free line",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.diligen.com/",
+          "quote": "1 800 939 0889",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8009390889"
+        },
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.diligen.com/",
+          "quote": "Toronto, ON M5G 1E2",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Donna Cona Inc. / Mastech Infotrellis Inc. in Joint Venture",
+    "slug": "donna-cona-inc-mastech-infotrellis-inc-in-joint-ve",
+    "site": "https://www.donnacona.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Data Solutions",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.donnacona.com/job-opportunities/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Certified Aboriginal business; owner not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.donnacona.com/",
+          "quote": "Certified Aboriginal Business",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA and the federal Privacy Act",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.donnacona.com/privacy-policy/",
+          "quote": "Canadians are protected by two federal privacy laws, the Privacy Act and the Personal Information Protection and Electronic Documents Act (PIPEDA).",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.donnacona.com/",
+          "quote": "Donna Cona qualifies under the Government of Canada’s",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.donnacona.com/",
+          "quote": "Tel: (613) 234-5407",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6132345407"
+        }
+      ]
+    }
+  },
+  {
+    "name": "EarthDaily Analytics",
+    "slug": "earthdaily-analytics",
+    "site": "https://earthdaily.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Geospatial/Imaging",
+      "stage": "Enterprise",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": "https://earthdaily.com/blog?hsLang=en",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Vancouver-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://earthdaily.com/about?hsLang=en",
+          "quote": "The Vancouver-based analytics company said its new satellites",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In the US, Europe or wherever it has facilities",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://earthdaily.com/privacy-policy",
+          "quote": "Personal Information may be stored and processed in the United States, Europe or in any country in which we have facilities or engage service providers",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://earthdaily.com/privacy-policy",
+          "quote": "European Union’s General Data Protection Regulation (“GDPR”)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://earthdaily.com/",
+          "quote": "A new era of change detection through earth observation has begun.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Vancouver office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://earthdaily.com/privacy-policy",
+          "quote": "Outside of the EEA: EarthDaily Analytics Corp., 33-1055 Canada Place Vancouver, BC V6C 0C3, Canada, Attention: Privacy Officer",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Elevated Thinking",
+    "slug": "elevated-thinking",
+    "site": "https://www.elevated-thinking.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto office; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.elevated-thinking.com/",
+          "quote": "99 Yorkville Ave. Suite 200, Toronto ON, M5R 3K5",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.elevated-thinking.com/",
+          "quote": "We help leaders bring impactful business & technology ideas to life.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.elevated-thinking.com/",
+          "quote": "99 Yorkville Ave. Suite 200, Toronto ON, M5R 3K5",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "info@elevated-thinking.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.elevated-thinking.com/",
+          "quote": "info@elevated-thinking.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "FactR Limited",
+    "slug": "factr-limited",
+    "site": "https://www.factr.me/about",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Paris",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.factr.me/careers",
+    "newsroom": "https://www.factr.me/blog",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Proudly Canadian; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.factr.me/about",
+          "quote": "Proudly Canadian",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "On servers in several countries",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.factr.me/privacy-policy",
+          "quote": "Personal Information provided to us is stored on servers in a number of locations around the world.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.factr.me/about",
+          "quote": "FactR builds autonomous data systems that enable organizations to move from fragmented workflows to continuous execution.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@factr.me (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.factr.me/careers",
+          "quote": "info@factr.me",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Fujitsu Consulting (Canada) Inc.",
+    "slug": "fujitsu-consulting-canada-inc",
+    "site": "https://global.fujitsu/en-CA",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "Tokyo, Japan",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Part of Fujitsu Limited of Japan",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://global.fujitsu/en-CA/terms/privacy",
+          "quote": "In case Fujitsu Limited and its Japanese subsidiaries collect, use or transfer any personal information within Japan",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In or outside Canada",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://global.fujitsu/en-CA/terms/privacy",
+          "quote": "Transfers of Personal Information (including transfers of Personal Information for processing by third parties within or outside of Canada) will occur only in accordance with applicable data protection laws.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://global.fujitsu/en-CA",
+          "quote": "Net positive offers benefits to both businesses and society/environment, yet many companies struggle to",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://global.fujitsu/en-CA/contact",
+          "quote": "How can we help you?",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "GlobVision Inc.",
+    "slug": "globvision-inc",
+    "site": "https://www.globvision.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "IT Solutions",
+      "stage": "Midsize",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Montréal office; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.globvision.com/contact-us/",
+          "quote": "St. Laurent, Montreal",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.globvision.com/",
+          "quote": "GlobVision develops, integrates, and markets innovative software solutions that enable informed decision-making and enhance the performance and reliability of safety-critical, business-critical and mission-critical complex systems.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://fr.globvision.com/contact-us/",
+          "quote": "Nous appeler: +1 (514) 855.0455",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Montréal phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.globvision.com/contact-us/",
+          "quote": "Tel.: +1 514-855-0455",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "5148550455"
+        },
+        {
+          "value": "Montréal office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.globvision.com/contact-us/",
+          "quote": "St. Laurent, Montreal",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Google Cloud Canada",
+    "slug": "google-cloud-canada",
+    "site": "https://cloud.google.com/about/locations",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Enterprise",
+      "hq": "Halifax",
+      "province": "NS"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": "https://cloud.google.com/blog/products/infrastructure/google-cloud-toronto-region-now-open",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Google LLC; country not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://policies.google.com/privacy?hl=en-US&client_theme=dark",
+          "quote": "This Privacy Policy applies to all of the services offered by Google LLC and its affiliates",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Your choice of region, including Montréal and Toronto",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-toronto-region-now-open",
+          "quote": "In combination with our Montreal region, customers now benefit from improved business continuity planning with distributed, secure infrastructure needed to meet IT and business requirements for disaster recovery, while maintaining data sovereignty.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://cloud.google.com/blog/products/infrastructure/google-cloud-toronto-region-now-open",
+          "quote": "For over a decade, we’ve been investing in Canada to become a go-to cloud partner for organizations across the country.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://cloud.google.com/contact",
+          "quote": "Fill out the contact form with your information, and we’ll get back to you shortly.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Deloitte Inc.",
+    "slug": "deloitte-inc",
+    "site": "https://www.deloitte.com/ca/en/about/about-deloitte-canada.html",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Public",
+      "hq": "London, UK",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Deloitte LLP, Toronto; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.deloitte.com/ca/en/legal/privacy.html?icid=bn_privacy",
+          "quote": "This privacy statement applies to Deloitte LLP with registered office address at #200 – 8 Adelaide St. West, Toronto, Ontario, Canada. M5H 0A9",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In Canada, or in other countries",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.deloitte.com/ca/en/legal/privacy.html?icid=bn_privacy",
+          "quote": "Please note that we and some of the recipients of your personal information referenced in this privacy statement may process your data in any province within Canada or in countries outside of Canada altogether.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.deloitte.com/ca/en/about/about-deloitte-canada.html",
+          "quote": "DTTL and each DTTL member firm are legally separate and independent entities, which cannot obligate each other.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.deloitte.com/ca/en/about/about-deloitte-canada.html",
+          "quote": "Français",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.deloitte.com/ca/en/contact/contact-us.html?icid=quicklinks_contact-us",
+          "quote": "For inquiries or requests that require a more personal response, we will make every attempt to respond in a timely manner.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Code for Canada",
+    "slug": "code-for-canada",
+    "site": "https://codefor.ca/about",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Services",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto-based non-profit; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://codefor.ca/about",
+          "quote": "Code for Canada is headquartered in Toronto (Tkaronto)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://codefor.ca/about",
+          "quote": "Code for Canada is a national non-profit that partners with governments and community-serving organizations to design, build, and improve digital services.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": []
+    }
+  },
+  {
+    "name": "Digital^Shift",
+    "slug": "digital-shift",
+    "site": "https://digital-shift.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://digital-shift.ca/",
+          "quote": "At Digital^Shift, we understand that the future of business hinges on leveraging advanced technologies.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto-area phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://digital-shift.ca/contact-us/",
+          "quote": "(416) 523-5489",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4165235489"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Dun & Bradstreet",
+    "slug": "dun-bradstreet",
+    "site": "https://www.dnb.com/en-ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Public",
+      "hq": "Short Hills, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Dun & Bradstreet Companies of Canada ULC; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.dnb.com/en-ca/utilities/privacy-policy.html",
+          "quote": "This online privacy policy applies to Dun & Bradstreet Companies of Canada ULC (“D&B”) and its websites dnb.ca and dnbexpress.ca.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In Canada, or outside it under contract",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.dnb.com/en-ca/utilities/privacy-policy.html",
+          "quote": "If personal information is transferred outside Canada for processing, contractual arrangements are made to assure a comparable level of protection.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.dnb.com/en-ca/",
+          "quote": "Leverage the world's most comprehensive business data and insights to find new opportunities, navigate evolving risk, and know who to trust to reach your organizational goals.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toll-free line",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.dnb.com/en-ca/utilities/privacy-policy.html",
+          "quote": "Canada Customer Service center can be contacted at 1-(800) 463-6362 or you can send us a letter to D&B Canada, 6750 Century Avenue, Suite 305, Mississauga, Ontario, L5N 0B7.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8004636362"
+        },
+        {
+          "value": "Mississauga office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.dnb.com/en-ca/utilities/privacy-policy.html",
+          "quote": "Canada Customer Service center can be contacted at 1-(800) 463-6362 or you can send us a letter to D&B Canada, 6750 Century Avenue, Suite 305, Mississauga, Ontario, L5N 0B7.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ernst & Young LLP",
+    "slug": "ernst-young-llp",
+    "site": "https://www.ey.com/en_ca",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Public",
+      "hq": "London, UK",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ernst & Young LLP; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.ey.com/en_ca/services/privacy-canada",
+          "quote": "Ernst & Young LLP",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ey.com/en_ca/services/privacy-canada",
+          "quote": "Personal Information Protection and Electronic Documents Act",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ey.com/en_ca",
+          "quote": "Explore EY Canada's analysis of the 2026 federal budget and the implications for Canadian organizations",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ey.com/fr_ca",
+          "quote": "Découvrez l’analyse du budget fédéral de",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ey.com/en_ca/services/privacy-canada",
+          "quote": "Toronto, Ontario",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "ExplorAI Inc.",
+    "slug": "explorai-inc",
+    "site": "https://www.explor.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Montréal-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.explor.ai/",
+          "quote": "Explorai est une firme basée à Montréal (Canada) offrant des services en intelligence artificielle (IA) et en développement logiciel pour les PME.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Some tools keep data outside Québec, including in the US",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.explor.ai/politique-de-confidentialite",
+          "quote": "Certains de nos outils de travail hébergent des données sur des serveurs situés hors du Québec, notamment aux États-Unis.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Québec’s Law 25",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.explor.ai/politique-de-confidentialite",
+          "quote": "En vertu de la Loi 25, vous avez le droit de :",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.explor.ai/",
+          "quote": "Explorai est une firme basée à Montréal (Canada)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.explor.ai/en/contact",
+          "quote": "Would you like to explore how AI could benefit your business, get a quote, or simply learn more about our services?",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@explor.ai (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.explor.ai/",
+          "quote": "info@explor.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Global Spatial Technologies Solutions",
+    "slug": "global-spatial-technologies-solutions",
+    "site": "https://ociana.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Canadian; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://ociana.com/",
+          "quote": "OCIANA® is a Canadian maritime intelligence platform",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "In Canada, or where it or its suppliers have facilities",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://ociana.com/resources/privacy-policy/",
+          "quote": "Personal information that GSTS processes or controls is transferred to, and stored and processed in, Canada or any other country in which GSTS or its affiliates or subcontractors maintain facilities.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ociana.com/",
+          "quote": "OCIANA® is a Canadian maritime intelligence platform",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ociana.com/fr/ressources/politique-sur-la-vie-privee/",
+          "quote": "Global Spatial Technology Solutions Inc. (ci-après, “GSTS”) a conçu et mis en place la présente politique en vue d’assurer le respect de votre vie privée.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Montréal phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ociana.com/contact-us/",
+          "quote": "(438) 449-4787",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4384494787"
+        },
+        {
+          "value": "Montréal office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ociana.com/contact-us/",
+          "quote": "Montreal, Québec",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
     "name": "Advanced Symbolics Inc.",
     "slug": "advanced-symbolics-inc",
     "site": "https://www.askpolly.ai/",
