@@ -407,7 +407,8 @@
         "url": "https://fellow.ai/",
         "group": "team-docs",
         "alternativeTo": [
-          "Otter"
+          "Otter",
+          "Fireflies"
         ],
         "does": {
           "value": "An AI notetaker that records and writes up your team's meetings",
@@ -6608,6 +6609,183 @@
           },
           "url": "https://scribeberry.com/privacy-policy",
           "quote": "Email: hello@scribeberry.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mutuo Health",
+    "slug": "mutuo-health",
+    "site": "https://www.mutuohealth.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Clinical Documentation",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "Supply Ontario",
+        "title": "Vendor of Record: AI Scribe Solution (Tender-20123)",
+        "url": "https://www.doingbusiness.mgs.gov.on.ca/mbs/psb/psb.nsf/VORDetails?OpenForm&Seq=1&Lang=EN&unid=665039350D6BB01085258CCA0047C324",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [
+      {
+        "name": "AutoScribe",
+        "url": "https://www.mutuohealth.com/autoscribe",
+        "group": "team-docs",
+        "alternativeTo": [
+          "Otter"
+        ],
+        "does": {
+          "value": "Writes a clinician's note from the visit transcript, in real time",
+          "url": "https://www.mutuohealth.com/autoscribe",
+          "quote": "AutoScribe creates a clinician note based on the transcription, all in the template of your choice, in real time.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "price": {
+          "value": "Part-time plan: from $59 a month, 80 visits included",
+          "url": "https://www.mutuohealth.com/pricing",
+          "quote": "$59/month",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "readAt": "2026-11-15"
+      }
+    ],
+    "facts": {
+      "owner": [
+        {
+          "value": "Acquired by WELLSTAR in 2026; part of a Canadian health tech group",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mutuohealth.com/about-autoscribe",
+          "quote": "In 2026, Mutuo was acquired by WELLSTAR, and we now operate as part of Canada’s leading healthcare technology ecosystem",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mutuohealth.com/faq",
+          "quote": "AutoScribe stores data in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Some streamed data may be processed in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mutuohealth.com/faq",
+          "quote": "Certain encrypted streamed data may be transiently processed in the United States unless a separate contract says otherwise.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "Its AI provider may process data outside Canada",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mutuohealth.com/privacy-policy",
+          "quote": "may process the data from outside of Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "PIPEDA, PIPA and the US law HIPAA",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.mutuohealth.com/pricing",
+          "quote": "HIPAA, PIPA, PIPEDA, SOC 2 Type II",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "PHIPA, Ontario's health privacy law",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mutuohealth.com/security",
+          "quote": "PHIPA (Personal Health Information Protection Act) compliance for Ontario healthcare privacy.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mutuohealth.com/pricing",
+          "quote": "English and French support",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mutuohealth.com/pricing",
+          "quote": "English and French support",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@mutuohealth.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mutuohealth.com/privacy-policy",
+          "quote": "By email: info@mutuohealth.com",
           "checkedAt": "2026-11-15",
           "status": {
             "kind": "current"
