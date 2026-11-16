@@ -24,7 +24,7 @@ export type FactKey = "owner" | "data" | "models" | "law" | "languages" | "conta
 export const FACT_KEYS: FactKey[] = ["owner", "data", "models", "law", "languages", "contact"]
 // name is the publisher as it reads after "Listed with": "the Government of Canada", "BetaKit", "CAISIC". title is the list's own title, shown when a reader hovers the link.
 // A product a company makes (#4697, from #4682). Two quoted lines: what it does, and what it costs ("not stated" when the pricing page names no price). The mark belongs to the maker, so a product line has none.
-export const GROUPS = ["chat-writing", "team-docs", "model"] as const // the three use groups on the alternatives pages
+export const GROUPS = ["chat-writing", "team-docs", "model", "clinic-notes", "images"] as const // the use groups on the alternatives pages (clinic-notes and images: Pennant, #4682)
 export type Group = (typeof GROUPS)[number]
 export const TOOLS = ["ChatGPT", "Microsoft Copilot", "Otter", "Grammarly", "Midjourney", "Google Gemini", "Claude", "Notion AI", "Zoom AI Companion", "Jasper", "Fireflies"] as const // the tools the alternatives pages answer; one list, Pennant's
 export type Tool = (typeof TOOLS)[number]

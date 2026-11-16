@@ -9190,7 +9190,7 @@
       {
         "name": "Tali AI Scribe",
         "url": "https://tali.ai/platform/ai-scribe",
-        "group": "team-docs",
+        "group": "clinic-notes",
         "alternativeTo": [
           "Otter"
         ],
@@ -9342,7 +9342,7 @@
       {
         "name": "Scribeberry",
         "url": "https://scribeberry.com/",
-        "group": "team-docs",
+        "group": "clinic-notes",
         "alternativeTo": [
           "Otter"
         ],
@@ -9495,7 +9495,7 @@
       {
         "name": "AutoScribe",
         "url": "https://www.mutuohealth.com/autoscribe",
-        "group": "team-docs",
+        "group": "clinic-notes",
         "alternativeTo": [
           "Otter"
         ],
@@ -12828,7 +12828,35 @@
     "jobsBoard": "https://jobs.ideogram.ai/",
     "newsroom": "https://ideogram.ai/blog/",
     "readAt": "2026-11-15",
-    "products": [],
+    "products": [
+      {
+        "name": "Ideogram",
+        "url": "https://ideogram.ai/",
+        "group": "images",
+        "alternativeTo": [
+          "Midjourney"
+        ],
+        "does": {
+          "value": "AI image models with clear lettering and reliable editing",
+          "url": "https://ideogram.ai/",
+          "quote": "Prompt fidelity. Crystal-clear type. Reliable editing. A suite of models made for people who need images to hold up beyond the prompt box.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "price": {
+          "value": "Plus plan: $20 a month, or $180 billed annually",
+          "url": "https://ideogram.ai/pricing/",
+          "quote": "per month, $180 billed annually",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        "readAt": "2026-11-15"
+      }
+    ],
     "facts": {
       "owner": [
         {
@@ -13777,6 +13805,1854 @@
           },
           "url": "https://waivemedical.com/contact",
           "quote": "1545 Maley Dr,",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Above The Void",
+    "slug": "above-the-void",
+    "site": "https://www.abovethevoid.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI film and video studio",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Imprint of Solutions Aksiom Inc.; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.abovethevoid.com/about-us.php?lang=en",
+          "quote": "Above The Void is an imprint operated by Solutions Aksiom Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.abovethevoid.com/about-us.php?lang=en",
+          "quote": "Where human intent meets machine dream.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@abovethevoid.com (email and form)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.abovethevoid.com/contact-us.php?lang=en",
+          "quote": "Drop us a line at info@abovethevoid.com, or use the form below to tell us a bit about who you are, what you’re working on, and how you’d like to collaborate.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "AgenQ Inc.",
+    "slug": "agenq",
+    "site": "https://agenq.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI training and onboarding for insurance software",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Toronto-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://agenq.com/privacy/",
+          "quote": "AgenQ is a software company based in Toronto, Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in the United States",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://agenq.com/security/",
+          "quote": "Data is stored in the United States and kept for 90 days.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR (for UK and EEA visitors)",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://agenq.com/privacy/",
+          "quote": "we rely on the following bases under the GDPR:",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://agenq.com/",
+          "quote": "AgenQ is AI training and onboarding software for insurance teams.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "+1 (416) 316-7435",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://agenq.com/contact/",
+          "quote": "+1 (416) 316-7435",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4163167435"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Aviron",
+    "slug": "aviron",
+    "site": "https://www.aviron.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Finance automation (accounts payable, reconciliation, month-end)",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Aviron",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.aviron.ai/privacy-policy",
+          "quote": "made available by Aviron",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be transferred to providers outside the visitor's jurisdiction; storage place not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.aviron.ai/privacy-policy",
+          "quote": "The Company may transfer personal information to a third-party service provider outside of your jurisdiction of residence.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.aviron.ai/",
+          "quote": "Free your finance team from manual AP",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@aviron.ai (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.aviron.ai/privacy-policy",
+          "quote": "info@aviron.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Axify",
+    "slug": "axify",
+    "site": "https://axify.io/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Engineering delivery analytics",
+      "stage": "Startup",
+      "hq": "Québec",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Axify Technologies inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://axify.io/about",
+          "quote": "Axify became a commercial platform, run by Axify Technologies inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in Canada (AWS)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://axify.io/privacy-policy",
+          "quote": "We use Amazon Web Services to host our Services and store your personal data. The servers are located in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canadian privacy law (OPC)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://axify.io/privacy-policy",
+          "quote": "If you are located in Canada, note that the Office of the Privacy Commissioner of Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://axify.io/",
+          "quote": "Get clear answers on AI usage and cost.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://axify.io/fr/",
+          "quote": "Obtenez des réponses claires",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "+1 (418) 476-2090",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://axify.io/contact",
+          "quote": "+1 (418) 476-2090",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4184762090"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Azimut Lab",
+    "slug": "azimut-lab",
+    "site": "https://azimutlab.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI, data science and automation consulting",
+      "stage": "Startup",
+      "hq": "Québec",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Azimut Lab Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://azimutlab.ca/privacy-policy",
+          "quote": "Azimut Lab Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://azimutlab.ca/privacy-policy",
+          "quote": "Politique de confidentialité",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@azimutlab.ca (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://azimutlab.ca/privacy-policy",
+          "quote": "Email: info@azimutlab.ca",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "BAI Analytics (BoundaryAI)",
+    "slug": "bai-analytics",
+    "site": "https://baianalytics.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Customer intelligence platform",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "BoundaryAI, Inc. (Delaware); Canadian affiliate BoundaryAI Analytics Canada Inc.",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://baianalytics.com/privacy-policy/",
+          "quote": "BoundaryAI, Inc., a Delaware corporation, is the controller for this website",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Region chosen per customer (North America, EU or Global)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://baianalytics.com/privacy-policy/",
+          "quote": "We offer three deployment environments: North America, European Union, and Global.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://baianalytics.com/security/",
+          "quote": "GDPR-compliant protection and processing across European Union, North America, and Global deployment options.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://baianalytics.com/",
+          "quote": "Turn every customer interaction into evidence-backed action.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://baianalytics.com/fr/",
+          "quote": "Transformez chaque interaction client en action fondée sur des preuves.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "privacy@boundary-ai.com (privacy officer email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://baianalytics.com/privacy-policy/",
+          "quote": "Email: privacy@boundary-ai.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "BioTwin",
+    "slug": "biotwin",
+    "site": "https://biotwin.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Health and biotech (human virtual twin)",
+      "stage": "Startup",
+      "hq": "Québec",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "BioTwin Holding International (parent); BioTwin Canada Inc.",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://biotwin.ai/policies#privacy",
+          "quote": "BioTwin Holding International (\"BioTwin Holding\") is the parent company of the group. It owns BioTwin Canada Inc. and BioTwin Limited (UAE)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Canada (Azure Toronto), also UAE, US and others",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://biotwin.ai/policies#privacy",
+          "quote": "Your information may be processed and stored outside Quebec: elsewhere in Canada (for example in Microsoft Azure's Canada Central region, in Toronto), in the UAE, the United States, and other countries",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://biotwin.ai/",
+          "quote": "Oncology leads the clinical applications of our technology.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://biotwin.ai/fr",
+          "quote": "ouvre la voie aux applications cliniques",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "1405, boulevard du Parc-Technologique, Québec, Québec G1P 4P5",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://biotwin.ai/contact",
+          "quote": "1405, boulevard du Parc-Technologique, Québec, Québec G1P 4P5, Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bloks",
+    "slug": "bloks",
+    "site": "https://www.bloks.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "CRM for financial advisors",
+      "stage": "Startup",
+      "hq": "Cantley",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Bloks, Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bloks.ai/privacy-policy",
+          "quote": "Bloks, Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be transferred across borders; storage place not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bloks.ai/privacy-policy",
+          "quote": "We may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties (as provided herein) across borders",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.bloks.ai/blog/bloks-named-one-of-canada-s-top-100-ai-tech-startups",
+          "quote": "Bloks Named One of Canada's Top 100 AI Startups",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "support@bloks.ai (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.bloks.ai/privacy-policy",
+          "quote": "You may contact us at support@bloks.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "BrainScores",
+    "slug": "brainscores",
+    "site": "https://brainscores.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Epilepsy diagnostics (brain imaging AI)",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "BrainScores Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://brainscores.ai/",
+          "quote": "© BrainScores Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://brainscores.ai/",
+          "quote": "We partner with epilepsy centers on validation studies and novel diagnostic approaches.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "+1 438 394 7721",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://brainscores.ai/",
+          "quote": "+1 438 394 7721",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4383947721"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Bucky AI",
+    "slug": "bucky-ai",
+    "site": "https://buckybuild.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Real-estate development feasibility",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Bucky AI Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://buckybuild.com/en/privacy#main-content",
+          "quote": "© 2026 Bucky AI Inc. · Montréal and Toronto",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Processed in the United States and other jurisdictions by service providers",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://buckybuild.com/en/privacy#main-content",
+          "quote": "process data in the United States or other jurisdictions",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://buckybuild.com/en/privacy#main-content",
+          "quote": "including the Personal Information Protection and Electronic Documents Act (PIPEDA)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://buckybuild.com/en/blog/bucky-canadas-top-100-ai-startups-2026",
+          "quote": "Bucky Named One of Canada's Top 100 AI Startups for 2026",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "hello@buckybuild.com (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://buckybuild.com/en/privacy#main-content",
+          "quote": "request a copy or deletion of your data at hello@buckybuild.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Carange Solutions",
+    "slug": "carange-solutions",
+    "site": "https://carangesolutions.com/en/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI for municipalities",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Carange Marketing inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://carangesolutions.com/en/privacy-policy/",
+          "quote": "This privacy policy of Carange Marketing inc. doing business as Carange Solutions",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Hosted in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://carangesolutions.com/en/",
+          "quote": "Munia is hosted on Canadian servers",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Law 25 and PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://carangesolutions.com/en/",
+          "quote": "Law 25 & PIPEDA compliance by default",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://carangesolutions.com/en/",
+          "quote": "Human-led support, a Canadian-built product",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://carangesolutions.com/",
+          "quote": "Carange Solutions accompagne les municipalités, MRC et organismes publics du Québec",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "(438) 530-1011",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://carangesolutions.com/en/",
+          "quote": "(438) 530-1011",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4385301011"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Chronhr",
+    "slug": "chronhr",
+    "site": "https://www.chronhr.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Anti-money-laundering investigation software for African financial institutions",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Chronhr Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.chronhr.com/",
+          "quote": "© 2026 Chronhr Inc. · Montréal, Québec",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.chronhr.com/",
+          "quote": "Polytechnique Montréal — Founding ecosystem",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "contact@chronhr.com (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.chronhr.com/#contact",
+          "quote": "contact@chronhr.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Coopérative Lab148",
+    "slug": "cooperative-lab148",
+    "site": "https://lab148.ca/en/start/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Interactive and immersive installation technology (tracking, audio analysis, video mapping)",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Worker co-operative (founded 2023)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://lab148.ca/en/a_propos/",
+          "quote": "Lab148 is a working cooperative founded in 2023",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab148.ca/en/start/",
+          "quote": "Sustainable technologies for the digital experience",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab148.ca/a_propos/",
+          "quote": "Qui sommes-nous?",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "+1 514-686-5643",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab148.ca/en/contact/",
+          "quote": "Phone: +1 514-686-5643",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "5146865643"
+        },
+        {
+          "value": "2050 rue Dandurand, local 301, Montreal, H2G 1Y9, QC",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab148.ca/en/contact/",
+          "quote": "Address: 2050 rue Dandurand, local 301, Montreal, H2G 1Y9, QC",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "D2Type Health",
+    "slug": "d2type-health",
+    "site": "https://www.d2type.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Type 2 diabetes care",
+      "stage": "Startup",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "D2Type Health Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.d2type.com/privacy-policy",
+          "quote": "D2Type Health, Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Google Cloud in Canada; some third-party processing outside Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.d2type.com/privacy-policy",
+          "quote": "operated on GCP in Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.d2type.com/",
+          "quote": "PIPEDA",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.d2type.com/",
+          "quote": "Transforming diabetes care,",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "support@d2type.com (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.d2type.com/privacy-policy",
+          "quote": "Rights request channel: support@d2type.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "DeepSight Réalité Augmentée",
+    "slug": "deepsight",
+    "site": "https://www.deepsight.ca/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Augmented reality and AI field-knowledge guides",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "DeepSight, Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.deepsight.ca/fr/contact-fr/",
+          "quote": "Copyright © 2026 DeepSight, Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be transferred internationally, including to the United States; storage place not stated",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.deepsight.ca/privacy-policy/",
+          "quote": "We may transfer your personal information internationally, including to the United States.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.deepsight.ca/privacy-policy/",
+          "quote": "The Personal Information Protection and Electronic Documents Act (PIPEDA) provides you with limited rights",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.deepsight.ca/privacy-policy/",
+          "quote": "We may transfer your personal information internationally",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.deepsight.ca/fr/",
+          "quote": "Convertissez rapidement votre savoir terrain en guides interactifs",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "contact@deepsight.ca (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.deepsight.ca/fr/contact-fr/",
+          "quote": "contact@deepsight.ca",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "escaping frogs",
+    "slug": "escaping-frogs",
+    "site": "https://www.escapingfrogs.ca/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Computers, software and custom technology for professionals and gamers",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "May be stored or processed in Canada, the U.S. or elsewhere",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.escapingfrogs.ca/privacy",
+          "quote": "Data may be stored or processed in Canada, the U.S., or other jurisdictions.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.escapingfrogs.ca/privacy",
+          "quote": "Escaping Frogs™ complies with PIPEDA (federal)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.escapingfrogs.ca/",
+          "quote": "We deliver cutting-edge technology",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.escapingfrogs.ca/fr",
+          "quote": "Nous propulsons votre productivité et votre style de vie",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "founder@escapingfrogs.ca (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.escapingfrogs.ca/contact",
+          "quote": "founder@escapingfrogs.ca",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Eureka Concept",
+    "slug": "eureka-concept",
+    "site": "https://www.eurekaconcept.com/en/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Interactive gaming adventures for parks, museums, municipalities and businesses",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Hosted in Canada (Montréal region)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.eurekaconcept.com/politique-de-confidentialite/",
+          "quote": "sont hébergées sur des serveurs situés au Canada, plus précisément dans la région de Montréal",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Loi 25 (Québec) and Canadian privacy principles",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.eurekaconcept.com/politique-de-confidentialite/",
+          "quote": "notamment la Loi 25 au Québec, les principes canadiens de protection des renseignements personnels",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.eurekaconcept.com/en/",
+          "quote": "Jessica Allocca is the creative force behind",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.eurekaconcept.com/nous-joindre/",
+          "quote": "Nous sommes impatients de créer une aventure",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@eurekaconcept.com (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.eurekaconcept.com/politique-de-confidentialite/",
+          "quote": "info@eurekaconcept.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Farpoint",
+    "slug": "farpoint",
+    "site": "https://www.farpointhq.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "Custom enterprise AI solutions",
+      "stage": "Startup",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Farpoint Technologies Inc.",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.farpointhq.com/legal/privacy-policy",
+          "quote": "Farpoint Technologies Inc. and our subsidiaries",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Personal information may be transferred to Canada, the United States and the EEA; storage place not stated",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.farpointhq.com/legal/privacy-policy",
+          "quote": "including Canada, the United States and the EEA.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR and applicable Canadian consumer privacy laws (Canadian law not named)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.farpointhq.com/legal/privacy-policy",
+          "quote": "other applicable Canadian consumer privacy laws",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.farpointhq.com/",
+          "quote": "Turning AI ambition into",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "privacy@farpointhq.com (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.farpointhq.com/legal/privacy-policy",
+          "quote": "privacy@farpointhq.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Findora AI",
+    "slug": "findora-ai",
+    "site": "https://www.findora.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Privacy-first AI search engine",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.findora.ai/",
+          "quote": "Canada's AI Search Revelution, Findora's Vision",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": []
+    }
+  },
+  {
+    "name": "Gallea",
+    "slug": "gallea",
+    "site": "https://gallea.ca/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Art marketplace for artists and venues",
+      "stage": "Startup",
+      "hq": "Québec",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Canada and the United States (Supabase, Vercel)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://gallea.ca/en/privacy",
+          "quote": "Data resides in secured data centres in Canada and the United States.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Law 25 (Québec) and PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://gallea.ca/en/privacy",
+          "quote": "we are subject to Quebec's Law 25",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://gallea.ca/en/contact",
+          "quote": "Now exhibiting across 19 cities in Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "hello@gallea.ca (email)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://gallea.ca/en/contact",
+          "quote": "hello@gallea.ca",
           "checkedAt": "2026-11-15",
           "status": {
             "kind": "current"
