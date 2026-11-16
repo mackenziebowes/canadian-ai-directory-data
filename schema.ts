@@ -7,7 +7,9 @@ export type IsoDate = string // YYYY-MM-DD
 export type Phone = string // 10 digits
 export const PROVINCES = ["BC", "AB", "SK", "MB", "ON", "QC", "NB", "NS", "PE", "NL", "YT", "NT", "NU"] as const
 export type Province = (typeof PROVINCES)[number]
-export const STAGES = ["Startup", "Midsize", "Enterprise", "Public"] as const // the canada.ca list's own casing
+export const STAGES = ["Startup", "Small Business", "Midsize", "Enterprise", "Public"] as const // the canada.ca list's own words and casing
+// The list misspells a stage on one row (Colleaga: "Strartup"); import reads it through this map. Keys are lower case.
+export const STAGE_SPELLING: Record<string, Stage> = { "strartup": "Startup" }
 export type Stage = (typeof STAGES)[number]
 
 // canadian, partly: the quote says Canada (wholly or in part). elsewhere: the quote names a place that is not Canada. notStated: it names no place.
