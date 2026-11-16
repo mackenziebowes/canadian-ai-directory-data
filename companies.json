@@ -242,7 +242,7 @@
             "kind": "canadian"
           },
           "url": "https://arytma.ca/",
-          "quote": "live demo (587) 807-0882",
+          "quote": "(587) 807-0882",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -1527,7 +1527,7 @@
             "kind": "notStated"
           },
           "url": "https://nimble.ca/careers",
-          "quote": "Send your resume to careers@nimble.ca",
+          "quote": "careers@nimble.ca",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -1662,7 +1662,7 @@
             "kind": "notStated"
           },
           "url": "https://praktikai.com/",
-          "quote": "Email: contact@praktikai.com",
+          "quote": "contact@praktikai.com",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -2241,7 +2241,7 @@
             "kind": "partly"
           },
           "url": "https://www.workdynamics.com/",
-          "quote": "Every search starts with a translation. You have a question in your head, such as which tasks are overdue for finance, and you convert it into fields: assigned to, due date, before today. If you search several times a day, … Read More",
+          "quote": "Every search starts with a translation.",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -2354,7 +2354,7 @@
             "kind": "notStated"
           },
           "url": "https://zokforce.com/privacy/",
-          "quote": "This website is run by Zokforce Technologie Inc., a company based in Toronto, Ontario, Canada. Questions about this policy go to service@zokforce.com.",
+          "quote": "This website is run by Zokforce Technologie Inc., a company based in Toronto, Ontario, Canada.",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -2865,7 +2865,7 @@
             "kind": "notStated"
           },
           "url": "https://www.aionos.ai/privacy-policy/",
-          "quote": "Grievance Officer: CorporateGovernance@Aionos.ai",
+          "quote": "CorporateGovernance@Aionos.ai",
           "checkedAt": "2026-11-12",
           "status": {
             "kind": "current"
@@ -6247,6 +6247,2780 @@
           },
           "url": "https://ociana.com/contact-us/",
           "quote": "Montreal, Québec",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Grain Data Solutions",
+    "slug": "grain-data-solutions",
+    "site": "https://graindatasolutions.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Hamilton",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": "https://graindatasolutions.com/blog/",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Hamilton-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://graindatasolutions.com/privacy-policy/",
+          "quote": "Hamilton, Ontario",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://graindatasolutions.com/",
+          "quote": "Leverage proven AI solutions and advanced technologies tailored to the farming industry to revolutionize your operations. Our customized, data-driven approach maximizes efficiency and empowers agricultural businesses to achieve their full potential.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General email address",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://graindatasolutions.com/privacy-policy/",
+          "quote": "info@graindatasolutions.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Hamilton mailing address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://graindatasolutions.com/privacy-policy/",
+          "quote": "Hamilton, Ontario",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://graindatasolutions.com/contact/",
+          "quote": "Send us a Message",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "H10 AI Inc.",
+    "slug": "h10-ai-inc",
+    "site": "https://h10ai.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Services",
+      "stage": "Startup",
+      "hq": "Timmins",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://h10ai.com/",
+          "quote": "We help you clearly see and swiftly grasp your AI potential",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://h10ai.com/contact/#contact",
+          "quote": "1 University Ave, Toronto, ON",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hewlett Packard Enterprise Canada Co.",
+    "slug": "hewlett-packard-enterprise-canada-co",
+    "site": "https://www.hpe.com/ca/en/home.html",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions - General",
+      "stage": "Enterprise",
+      "hq": "Spring, Texas, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Part of HPE, headquartered in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hpe.com/ca/en/legal/privacy.html",
+          "quote": "HPE has its headquarters in the United States of America",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Other countries; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hpe.com/ca/en/legal/privacy.html",
+          "quote": "The recipients may be in countries which do not provide the same level of data protection",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.hpe.com/ca/en/home.html",
+          "quote": "Discover how AI is driving the largest infrastructure buildout in history, and why the network is both its critical enabler and defining constraint.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy Office mailing address, Spring, Texas",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hpe.com/ca/en/legal/privacy.html",
+          "quote": "Spring, TX 77389",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hitachi Consulting Canada Corporation",
+    "slug": "hitachi-consulting-canada-corporation",
+    "site": "https://www.hitachi.com/en-ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "Tokyo, Japan",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Part of Hitachi, Ltd.; country not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hitachi.com/en-ca/privacy/",
+          "quote": "Hitachi, Ltd., and its subsidiaries and affiliated companies",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Moved to the US, where the site is run",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hitachi.com/en-ca/privacy/",
+          "quote": "your Personal Information will be transferred to the US",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hitachi.com/en-ca/",
+          "quote": "Hitachi in Canada helps customers, cities and governments meet their digital and sustainability goals. Hitachi is propelling the nation towards a progressive future defined by technological advancement, environmental consciousness, and an enhanced quality of life for citizens.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hitachi.com/fr-ca/",
+          "quote": "Hitachi aide les entreprises de tous les secteurs",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy Officer email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hitachi.com/en-ca/privacy/",
+          "quote": "hitachicommunication@hal.hitachi.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hitachi Vantara Inc.",
+    "slug": "hitachi-vantara-inc",
+    "site": "https://www.hitachivantara.com/en-us/home/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "Tokyo, Japan",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.hitachivantara.com/en-us/company/careers",
+    "newsroom": "https://www.hitachivantara.com/en-us/blog",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Hitachi companies and partners worldwide; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hitachivantara.com/en-us/legal/privacy",
+          "quote": "may be transferred, stored and processed by member companies of the worldwide Hitachi organization",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.hitachivantara.com/en-us/home/",
+          "quote": "Scalable, trusted data infrastructure for your AI needs.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy mailing address, Santa Clara, California",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hitachivantara.com/en-us/legal/privacy",
+          "quote": "Santa Clara, CA 95054 USA",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hitachivantara.com/en-us/legal/privacy",
+          "quote": "privacy@hitachivantara.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "I4C Information Technology Consulting Inc.",
+    "slug": "i4c-information-technology-consulting-inc",
+    "site": "https://www.i4c.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Midsize",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ottawa head office; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.i4c.com/",
+          "quote": "Head Office: 1283 Teron Rd, Suite 201, Ottawa, ON, K2K 0J7",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.i4c.com/",
+          "quote": "At i4C, we transform businesses through digital innovation, data-driven insights, and AI solutions. Whether you’re looking to harness data for smarter decision-making, to build cutting-edge applications, or find the right talent to drive growth, i4c empowers you to stay ahead of the curve. We don’t just adapt to change – we help you lead it.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.i4c.com/",
+          "quote": "613-271-6421",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6132716421"
+        },
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.i4c.com/",
+          "quote": "Head Office: 1283 Teron Rd, Suite 201, Ottawa, ON, K2K 0J7",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "IBM Canada Ltd.",
+    "slug": "ibm-canada-ltd",
+    "site": "https://www.ibm.com/ca-en",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "New York, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "IBM companies and third parties worldwide; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.ibm.com/us-en/privacy",
+          "quote": "may be transferred to or accessed by IBM subsidiaries and third parties globally",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ibm.com/ca-en",
+          "quote": "Make your year-end investment go further with limited-time savings on purchases made on ibm.com. Offer ends 14 December 2026.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.ibm.com/ca-fr",
+          "quote": "Plus de valeur pour vos investissements",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Chief Privacy Officer mailing address, Armonk, New York",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.ibm.com/us-en/privacy",
+          "quote": "Armonk,",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Idlewyld Analytics and Consulting Services, Sysabee, and the DAVHILL Group in Joint Venture",
+    "slug": "idlewyld-analytics-and-consulting-services-sysabee",
+    "site": "https://www.davhill.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Services",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ottawa-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.davhill.com/",
+          "quote": "DAVHILL Group is an Ottawa-based process, data and AI training and consulting company.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.davhill.com/",
+          "quote": "DAVHILL Group is an Ottawa-based process, data and AI training and consulting company. Live-virtual across Canada and the US, or in person.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa headquarters, Albert St",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.davhill.com/contact",
+          "quote": "Headquarters location Albert St, Ottawa, Ontario, Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.davhill.com/contact",
+          "quote": "Please fill in the form to contact us. A DAVHILL Group representative will reply within 24 hours.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "In2IT Technologies Canada Inc.",
+    "slug": "in2it-technologies-canada-inc",
+    "site": "https://www.in2ittech.com/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "IT Solutions",
+      "stage": "Midsize",
+      "hq": "Noida, India",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "May be transferred across borders to In2IT group companies; place not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.in2ittech.com/wp-content/uploads/2024/03/PRIVACY-NOTICE-WEBSITE-v1.pdf",
+          "quote": "Personal data collected on our website may be shared and transferred across borders to",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.in2ittech.com/",
+          "quote": "Our strategic technology consulting services ensures that your business is enabled by innovative and optimum technology solutions. In2IT can help your business build an IT vision fit for the future. We walk alongside you throughout the journey to make this vision a reality.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy officer email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.in2ittech.com/wp-content/uploads/2024/03/PRIVACY-NOTICE-WEBSITE-v1.pdf",
+          "quote": "Privacyoffice@in2ittech.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Infosys Public Services Canada, Inc.",
+    "slug": "infosys-public-services-canada-inc",
+    "site": "https://www.infosyspublicservices.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Enterprise",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.infosyspublicservices.ca/careers.html",
+    "newsroom": "https://www.infosyspublicservices.ca/insights/blogs.html",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Infosys Public Services Canada; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.infosyspublicservices.ca/privacy-statement.html",
+          "quote": "Infosys Public Services Canada and its affiliates",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Service providers mainly in the USA, Canada, India and other countries",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.infosyspublicservices.ca/privacy-statement.html",
+          "quote": "Our service providers are located globally; however, the primary locations are in USA, Canada, Australia, Singapore, Hong Kong, India, and UK.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.infosyspublicservices.ca/privacy-statement.html",
+          "quote": "Personal Information Protection and Electronic Documents Act, 2000 (commonly known as PIPEDA)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.infosyspublicservices.ca/",
+          "quote": "Infosys Public Services is Expanding in Canada and Modernizing Public Sector Service Delivery",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.infosyspublicservices.ca/privacy-statement.html",
+          "quote": "privacy@infosys.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Irosoft Inc.",
+    "slug": "irosoft-inc",
+    "site": "https://irosoft.com/en/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "IT Solutions",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://irosoft.com/en/careers",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Proudly Canadian, Montréal since 1995; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://irosoft.com/en/",
+          "quote": "Irosoft is a proudly Canadian organization, founded and operating in Montréal since 1995.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://irosoft.com/en/",
+          "quote": "For over 30 years, Irosoft has partnered with public institutions across Canada and around the world to drive digital transformation and streamline the production of legislation.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://irosoft.com/contact",
+          "quote": "Entamons une conversation qui fera avancer votre organisation.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General email address",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://irosoft.com/en/",
+          "quote": "info@irosoft.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ivado Labs",
+    "slug": "ivado-labs",
+    "site": "https://ivadolabs.com/en/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI Solutions",
+      "stage": "Midsize",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Canada and the US (its service providers)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://ivadolabs.com/en/legal",
+          "quote": "selected third-party service providers in Canada and the United States",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ivadolabs.com/en/",
+          "quote": "We are a unique team of world-class applied scientists, developers and business strategists, working together to transform industries.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ivadolabs.com/fr/",
+          "quote": "Nous sommes un ensemble unique de chercheurs",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Montréal office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://ivadolabs.com/en/legal",
+          "quote": "6795 Rue Marconi #200,",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Privacy officer email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://ivadolabs.com/en/legal",
+          "quote": "dataprivacyofficer@ivadolabs.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "KI Design",
+    "slug": "ki-design",
+    "site": "https://kidesign.io/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Data Solutions",
+      "stage": "Midsize",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "KI Design LLC; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://kidesign.io/privacy.html",
+          "quote": "KI Design LLC (\"KI Design\", \"we\", \"us\")",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May move between Canada, the US and the EU",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://kidesign.io/privacy.html",
+          "quote": "When data is transferred across borders (e.g., between Canada, the US, and the EU)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR and Québec's Law 25",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://kidesign.io/privacy.html",
+          "quote": "Legal Basis (GDPR/Law 25)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://kidesign.io/",
+          "quote": "KI Design acts as an external innovation engine for C-suite executives, Heads of R&D, and Product Leaders. Proven track record across 50+ active engagements including Doctors Without Borders, Government of Iraq, Government of Egypt, Canada's largest hospital networks, federal election integrity, and US energy utilities.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://kidesign.io/privacy.html",
+          "quote": "privacy@kidesign.io",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "KPMG LLP",
+    "slug": "kpmg-llp",
+    "site": "https://kpmg.com/ca/en.html",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Public",
+      "hq": "Amstelveen, Natherlands",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://kpmg.com/ca/en/careers.html",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ontario partnership; member firm of the KPMG global organization",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://kpmg.com/ca/en/misc/privacy.html",
+          "quote": "KPMG LLP, an Ontario limited liability partnership",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be stored outside your province, including the US, EU and Asia",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://kpmg.com/ca/en/misc/privacy.html",
+          "quote": "including but not limited to in the U.S., EU and Asia",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canadian federal and provincial privacy law (no act named)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://kpmg.com/ca/en/misc/privacy.html",
+          "quote": "reflect requirements set out in Canadian federal and/or provincial privacy legislation",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://kpmg.com/ca/en.html",
+          "quote": "Discover how our end-to-end AI consulting solutions can accelerate AI with confidence.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://kpmg.com/ca/fr.html",
+          "quote": "Donner aux clients les moyens de",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy Officer toll-free line",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://kpmg.com/ca/en/misc/privacy.html",
+          "quote": "1-866-502-2955",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8665022955"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Koan Analytics Inc.",
+    "slug": "koan-analytics-inc",
+    "site": "https://koananalytics.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Services",
+      "stage": "Midsize",
+      "hq": "Victoria",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://koananalytics.com/",
+          "quote": "Our customers bring us the strategic, the complex, and the tough analytic problems that are going to produce critical insights and tangible results.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Support email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://koananalytics.com/",
+          "quote": "tech_support@koananalytics.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Korah Limited",
+    "slug": "korah-limited",
+    "site": "https://www.korahlimited.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "IT Services",
+      "stage": "Startup",
+      "hq": "Markham",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Markham-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.korahlimited.com/",
+          "quote": "3980 14th Avenue, Unit 13 & 14 Markham, ON, Canada L3R 0B1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.korahlimited.com/",
+          "quote": "Automate workflow processes with Korah’s innovative digital solutions today",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Markham office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.korahlimited.com/",
+          "quote": "3980 14th Avenue, Unit 13 & 14 Markham, ON, Canada L3R 0B1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Markham phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.korahlimited.com/",
+          "quote": "+1 (905) 470-8488",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "9054708488"
+        }
+      ]
+    }
+  },
+  {
+    "name": "L3 Technologies MAS Inc.",
+    "slug": "l3-technologies-mas-inc",
+    "site": "https://mas-suppliers.l3harris.com/contact-us/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "Defense",
+      "stage": "Enterprise",
+      "hq": "Mirabel",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "An L3Harris company; country not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.l3harris.com/en-ca/canada",
+          "quote": "L3Harris MAS, an L3Harris company",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Its own servers or the cloud; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.l3harris.com/en-ca/node/6811",
+          "quote": "All information we collect and process about you is stored on our secure servers located in our various business units or hosted in secure cloud-based environments.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "California CCPA",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.l3harris.com/en-ca/node/6811",
+          "quote": "the “CCPA”",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://mas-suppliers.l3harris.com/contact-us/",
+          "quote": "To find out more about our programs, do not hesitate to contact us.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Mirabel office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://mas-suppliers.l3harris.com/contact-us/",
+          "quote": "Mirabel (Quebec) J7N 1H3",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Mirabel phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://mas-suppliers.l3harris.com/contact-us/",
+          "quote": "(450) 476-4000",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "4504764000"
+        },
+        {
+          "value": "General email address",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://mas-suppliers.l3harris.com/contact-us/",
+          "quote": "Info.Marketing@L3Harris.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.l3harris.com/en-ca/node/6811",
+          "quote": "privacy.info@l3harris.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Larus Technologies Group",
+    "slug": "larus-technologies-group",
+    "site": "https://www.larus.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Defense",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.larus.com/careers/",
+    "newsroom": "https://www.larus.com/resources/?e-filter-0fde9a0-category=blogs",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Canadian-owned, built and operated",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.larus.com/",
+          "quote": "Canadian owned, built, and operated.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be stored in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.larus.com/privacy-policy/",
+          "quote": "may process, store, and transfer your personal information in and to a foreign country, such as the United State of America",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.larus.com/",
+          "quote": "Deploying operational intelligence since 1995.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa mailing address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.larus.com/privacy-policy/",
+          "quote": "170 Laurier Ave West, Suite 310, Ottawa, Ontario K1P 5V5 Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.larus.com/privacy-policy/",
+          "quote": "privacy@larus.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Learning Tree International Inc.",
+    "slug": "learning-tree-international-inc",
+    "site": "https://www.learningtree.ca/",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "Training",
+      "stage": "Midsize",
+      "hq": "Herndon, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.learningtree.ca/careers/",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Hosted in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.learningtree.ca/contact-us/privacy/",
+          "quote": "this site is hosted on our computer servers in the United States",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.learningtree.ca/",
+          "quote": "Explore our top-rated, Guaranteed-To-Run Courses, designed to build critical skills in AI, cybersecurity, project management, leadership, and more.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa privacy line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.learningtree.ca/contact-us/privacy/",
+          "quote": "(613) 237-0098",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6132370098"
+        },
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.learningtree.ca/",
+          "quote": "2600 - 160 Elgin Street, Ottawa, ON K1P 1C3",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lemay.ai",
+    "slug": "lemay-ai",
+    "site": "https://www.lemay.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ottawa-based; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lemay.ai/",
+          "quote": "Ottawa-based Lemay.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [
+        {
+          "value": "On your own hardware",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.lemay.ai/",
+          "quote": "On-Prem AI Experts",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.lemay.ai/",
+          "quote": "We provide you with end-to-end solutions",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.lemay.ai/privacy-policy.html",
+          "quote": "(613) 866-6723",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6138666723"
+        },
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.lemay.ai/privacy-policy.html",
+          "quote": "Suite 406 - 1505 Laperriere Ave",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "General email address",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lemay.ai/privacy-policy.html",
+          "quote": "hi@lemay.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Lockheed Martin Canada Inc.",
+    "slug": "lockheed-martin-canada-inc",
+    "site": "https://www.lockheedmartin.com/en-ca/index.html",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - General",
+      "stage": "Public",
+      "hq": "Washington D.C., United States",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Ottawa-based; wholly owned by Lockheed Martin Corporation, country not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lockheedmartin.com/en-ca/index.html",
+          "quote": "Headquartered in Ottawa, Lockheed Martin Canada is a wholly-owned subsidiary of Lockheed Martin Corporation",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be stored in the US, Australia, the UK or Singapore",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.lockheedmartin.com/en-us/contact/privacy-center.html",
+          "quote": "may be transferred and stored in the United States, Australia, the United Kingdom or Singapore",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "California's CCPA",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.lockheedmartin.com/en-us/contact/privacy-center.html",
+          "quote": "California Consumer Privacy Act of 2018",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.lockheedmartin.com/en-ca/index.html",
+          "quote": "Canadian people. Canadian presence. Canadian protection.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.lockheedmartin.com/fr-ca/index.html",
+          "quote": "Un peuple canadien. Une présence canadienne.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy hot line (toll-free)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lockheedmartin.com/en-us/contact/privacy-center.html",
+          "quote": "1-877-314-8442",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8773148442"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Loom Analytics Inc.",
+    "slug": "loom-analytics-inc",
+    "site": "https://www.loomanalytics.com/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - Legal",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.loomanalytics.com/careers",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "Your choice of region: USA, Canada, UK or Australia",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "Servers in four regions: USA, Canada, UK & Australia.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "May be stored outside Canada",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.loomanalytics.com/privacypolicy",
+          "quote": "your personal data may be stored or accessed outside of Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "On-device, on-premise or cloud",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "Secure Deployment - On-Device, On-Premise and Cloud SaaS",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "PIPEDA and provincial laws",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.loomanalytics.com/privacypolicy",
+          "quote": "Personal Information Protection and Electronic Documents Act (“PIPEDA”) as well as those federal, provincial and territorial laws",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "HIPAA and GDPR",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "HIPAA & GDPR COMPLIANT",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "Resource Management - Time Tracking, Scheduling & Productivity Analytics",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Toronto-area phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "+1 647-362-4671",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6473624671"
+        },
+        {
+          "value": "Toronto office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.loomanalytics.com/",
+          "quote": "200 Yorkland Blvd., Suite 720, Toronto, ON, Canada, M2J-5C1",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.loomanalytics.com/privacypolicy",
+          "quote": "please contact our Privacy Officer at privacy@loomanalytics.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "MDA Corporation",
+    "slug": "mda-corporation",
+    "site": "https://mda.space/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "IT Services",
+      "stage": "Midsize",
+      "hq": "Richmond",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Public, listed on the TSX and NYSE (MDA)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://mda-en.investorroom.com/2026-11-10-MDA-SPACE-AND-GLOBALSTAR-COMPLETE-INITIAL-ON-ORBIT-FUNCTIONAL-TESTS-FOR-GLOBALSTAR-2-R-MISSION",
+          "quote": "MDA Space Ltd. (TSX: MDA) (NYSE: MDA)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Several countries; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://mda.space/privacy-policy",
+          "quote": "We may transfer your Personal Information to several different countries.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://mda.space/",
+          "quote": "Building the space between proven and possible, MDA Space is a trusted mission partner to the global defence and space industry. A robotics, satellite systems and geointelligence pioneer with a 55-year+ story of world firsts and more than 450 missions, MDA Space is a global leader in communications satellites, Earth and space observation, and space exploration and infrastructure.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://mda.space/fr/home",
+          "quote": "L’équipe de MDA Space, qui compte plus de",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Media contact, Ottawa-area phone",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://mda-en.investorroom.com/2026-11-10-MDA-SPACE-AND-GLOBALSTAR-COMPLETE-INITIAL-ON-ORBIT-FUNCTIONAL-TESTS-FOR-GLOBALSTAR-2-R-MISSION",
+          "quote": "Amy MacLeod, Vice President, Corporate Communications, 613-796-6937",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "person",
+          "name": "Amy MacLeod",
+          "phone": null
+        },
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://mda.space/privacy-policy",
+          "quote": "MDA-SMB-Compliance@mda.space",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "MasterCard Canada ULC",
+    "slug": "mastercard-canada-ulc",
+    "site": "https://www.mastercard.com/ca/en/innovation/engage-with-us/vancouver-tech-hub.html",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "Financial services",
+      "stage": "Enterprise",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Part of Mastercard, headquartered in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mastercard.com/ca/en/global-privacy-policy.html",
+          "quote": "Mastercard’s headquarters in the U.S.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be moved to the US and other countries",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mastercard.com/ca/en/global-privacy-policy.html",
+          "quote": "We may transfer your Personal Information to the United States and other countries",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.mastercard.com/ca/en/innovation/engage-with-us/vancouver-tech-hub.html",
+          "quote": "Vancouver is home to Mastercard's Global Intelligence and Cyber Centre of Excellence",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Vancouver tech hub address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mastercard.com/ca/en/innovation/engage-with-us/vancouver-tech-hub.html",
+          "quote": "Vancouver, B.C. V6C 2B3",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        },
+        {
+          "value": "Toll-free privacy line",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mastercard.com/ca/en/global-privacy-policy.html",
+          "quote": "1-833-244-4084",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "8332444084"
+        }
+      ]
+    }
+  },
+  {
+    "name": "McKinsey & Company Canada",
+    "slug": "mckinsey-company-canada",
+    "site": "https://www.mckinsey.com/ca/overview",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "General",
+      "stage": "Enterprise",
+      "hq": "New York, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Part of McKinsey & Company, United States",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mckinsey.com/privacy-notice",
+          "quote": "McKinsey & Company, United States, and its subsidiaries and affiliates",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Affiliates and service providers in other countries; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mckinsey.com/privacy-notice",
+          "quote": "may be located in countries which may have different data protection laws",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mckinsey.com/ca/overview",
+          "quote": "We exemplify the spirit of innovation, entrepreneurship, and vibrancy of Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mckinsey.com/ca/fr/overview",
+          "quote": "qui caractérisent notre pays",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy email",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mckinsey.com/privacy-notice",
+          "quote": "Privacy@mckinsey.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Mcafee Canada ULC",
+    "slug": "mcafee-canada-ulc",
+    "site": "https://www.mcafee.com/en-ca/index.html",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Security",
+      "stage": "Public",
+      "hq": "San Jose, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://careers.mcafee.com/home",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Headquartered in the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mcafee.com/en-ca/consumer-support/policy/legal.html",
+          "quote": "McAfee is headquartered in the United States",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Other jurisdictions; places not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mcafee.com/en-ca/consumer-support/policy/legal.html",
+          "quote": "may transfer your Personal Information to, or store or access it in, jurisdictions",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canada's data protection laws, in a Canada supplement (no act named)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mcafee.com/en-ca/consumer-support/policy/legal.html",
+          "quote": "subject to the applicable data protection laws of Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mcafee.com/en-ca/index.html",
+          "quote": "We'll help keep you safe from text and QR code scams.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mcafee.com/fr-ca/index.html",
+          "quote": "Gardez le contrôle de vos renseignements personnels",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "McAfee Canada ULC, Waterloo, Ontario address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mcafee.com/en-ca/consumer-support/policy/legal.html",
+          "quote": "451 Phillip Street Unit 130,Waterloo, Ontario N2L3X2",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Canada Inc.",
+    "slug": "microsoft-canada-inc",
+    "site": "https://www.microsoft.com/en-ca",
+    "profile": {
+      "business_type": "Software",
+      "sector": "IT Solutions",
+      "stage": "Public",
+      "hq": "Seattle, USA",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://careers.microsoft.com/v2/global/en/home.html",
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [],
+      "data": [
+        {
+          "value": "May be stored in your region, the US or other countries",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.microsoft.com/en-us/privacy/privacystatement",
+          "quote": "may store and process your personal data in your region, the United States, and any other jurisdiction",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.microsoft.com/en-ca",
+          "quote": "Get extended free returns and price protection on gifts through Jan 31, 2027.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.microsoft.com/fr-ca",
+          "quote": "Des moments inoubliables.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy support form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.microsoft.com/en-us/privacy/privacystatement",
+          "quote": "please visit our Privacy support and requests page",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "MindBridge Analytics Inc.",
+    "slug": "mindbridge-analytics-inc",
+    "site": "https://www.mindbridge.ai/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI Solutions - Auditing",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "the Government of Canada",
+        "title": "Government of Canada list of interested AI suppliers",
+        "url": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/advancing-ai/list-interested-artificial-intelligence-ai-suppliers.html",
+        "checkedAt": "2026-10-21"
+      }
+    ],
+    "jobsBoard": "https://www.mindbridge.ai/careers/",
+    "newsroom": "https://www.mindbridge.ai/blog/",
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Based in Canada; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.mindbridge.ai/privacy-policy/",
+          "quote": "including to Canada where we are located",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Canada and other places outside Europe",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.mindbridge.ai/privacy-policy/",
+          "quote": "we transfer your personal data outside of the EEA and the UK, including to Canada where we are located",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "GDPR (for UK and EEA residents)",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.mindbridge.ai/privacy-policy/",
+          "quote": "additional rights under the GDPR",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.mindbridge.ai/",
+          "quote": "Live Webinar Nov. 17: When Machines Check Machines, with Christina Ho | 1 CPE Credit Available",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Ottawa phone line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mindbridge.ai/",
+          "quote": "+1 (613) 667-1236",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6136671236"
+        },
+        {
+          "value": "Ottawa office address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.mindbridge.ai/",
+          "quote": "80 Aberdeen Street Suite 400",
           "checkedAt": "2026-11-15",
           "status": {
             "kind": "current"
@@ -12205,6 +14979,1789 @@
           },
           "url": "https://www.getlimina.ai/en/contact-us",
           "quote": "Tell Us What You Need",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "GeoMate Inc.",
+    "slug": "geomate",
+    "site": "https://geomate.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Mapping and geospatial AI",
+      "stage": "Startup",
+      "hq": "Waterloo",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Waterloo, ON office; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://geomate.ai/privacy-policy",
+          "quote": "Mail: #308, 375 Hagey Blvd, Waterloo, ON N2L 6R6",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Data may be stored or moved to a foreign country",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://geomate.ai/privacy-policy",
+          "quote": "We may process, store, and transfer your personal information in and to a foreign country",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canadian privacy rights, plus CCPA and GDPR",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://geomate.ai/privacy-policy",
+          "quote": "Canadian Privacy Rights",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://geomate.ai/",
+          "quote": "Enabling Smart Mobility at City Scale",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://geomate.ai/privacy-policy",
+          "quote": "Telephone: +1(647)557-3076",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6475573076"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Konpanion",
+    "slug": "konpanion",
+    "site": "https://konpanion.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI companion device",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Renraku Dynamics Inc., Montréal; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://konpanion.ai/privacy",
+          "quote": "At Renraku Dynamics Inc., privacy is not an afterthought.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [
+        {
+          "value": "Quebec law and federal laws of Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://konpanion.ai/privacy",
+          "quote": "This Privacy Policy is governed by the laws of the Province of Quebec and the applicable federal laws of Canada.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://konpanion.ai/",
+          "quote": "Konpanion transforms AI into a living, expressive presence designed for the real world.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://konpanion.ai/",
+          "quote": "L'IA interactive qui prend vie",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact form",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://konpanion.ai/contact",
+          "quote": "Tell us about your project, partnership or idea. We'll get back to you quickly.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Latent-Sense Technologies Inc.",
+    "slug": "latent-sense",
+    "site": "https://www.latentsense.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Evidence-based AI reasoning",
+      "stage": "Startup",
+      "hq": "Vancouver",
+      "province": "BC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Latent-Sense Technologies Inc., Vancouver; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.latentsense.ai/privacy-policy",
+          "quote": "is owned and operated by Latent-Sense Technologies Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Servers follow Canadian and US rules; place not named",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.latentsense.ai/privacy-policy",
+          "quote": "store all of our data on servers in secure facilities in compliance with Canadian and US regulations",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canadian and US regulations",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.latentsense.ai/privacy-policy",
+          "quote": "in compliance with Canadian and US regulations",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.latentsense.ai/",
+          "quote": "From evidence to trusted AI decisions.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "inquiries@latentsense.ai (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.latentsense.ai/privacy-policy",
+          "quote": "please contact us at inquiries@latentsense.ai",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "LenzVU Inc.",
+    "slug": "lenzvu",
+    "site": "https://www.lenzvu.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI marketing and CRM for gyms",
+      "stage": "Startup",
+      "hq": "Vaughan",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Built in Vaughan, Ontario; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lenzvu.com/about/",
+          "quote": "Built in Canada to Help Gyms And Studios Turn Leads Into Members.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored on secure servers; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.lenzvu.com/privacy-policy/",
+          "quote": "information is stored on secure servers and we employ security policies",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Names the California CCPA only; says HIPAA-compliant",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.lenzvu.com/privacy-policy/",
+          "quote": "Your privacy rights under the California Consumer Privacy Act of 2018 as amended",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.lenzvu.com/",
+          "quote": "Paying for ads, but leads go cold before anyone follows up?",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line (Toronto area code)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.lenzvu.com/",
+          "quote": "(647) 477-1694",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6474771694"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Leopard AI Inc.",
+    "slug": "leopard-ai",
+    "site": "https://www.leopardai.ca",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Venture capital intelligence",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Leopard AI Inc., Toronto; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.leopardai.ca/about",
+          "quote": "Founded in Toronto, Canada, Leopard AI Inc. is the institutional venture intelligence",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.leopardai.ca/",
+          "quote": "The trust layer for venture capital.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "info@leopardai.ca (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.leopardai.ca/about",
+          "quote": "info@leopardai.ca",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "LiORA",
+    "slug": "liora",
+    "site": "https://www.joinliora.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI analytics for contaminated sites",
+      "stage": "Startup",
+      "hq": "Saskatoon",
+      "province": "SK"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Environmental Material Science Inc., Saskatoon; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.joinliora.com/terms",
+          "quote": "ENVIRONMENTAL MATERIAL SCIENCE INC.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.joinliora.com/",
+          "quote": "AI-driven analytics predict risks before they escalate so you can act before problems become costly.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Contact page; Calgary and Saskatoon offices",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.joinliora.com/contact",
+          "quote": "2508-112 4 Ave SW",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Loon",
+    "slug": "loon",
+    "site": "https://loonbio.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI evidence for biopharma reimbursement",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Loon Inc., Ottawa; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://loonbio.com/privacy-policy",
+          "quote": "Loon Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Stored in Canada",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://loonbio.com/privacy-policy",
+          "quote": "Your personal data is stored in Canada, which benefits from a European Commission adequacy decision",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "PIPEDA and GDPR (also UK GDPR)",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://loonbio.com/",
+          "quote": "GDPR & PIPEDA compliant",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://loonbio.com/",
+          "quote": "EVIDENCE THAT LANDS.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line (Ottawa)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://loonbio.com/privacy-policy",
+          "quote": "+1 (613) 505 – 5933",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "6135055933"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Maket",
+    "slug": "maket",
+    "site": "https://www.maket.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI architectural design",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Maket Technologies Inc., a Canadian company",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.maket.ai/about",
+          "quote": "We are Maket (legally known as Maket Technologies Inc.). We are a Canadian technology company",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be processed in Canada, the US, the EEA and the UK",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.maket.ai/legal/privacy-policy",
+          "quote": "your personal information may be processed outside your province, state, or country of residence (including Canada, the United States, the EEA, and the UK)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Names GDPR and UK GDPR; other laws as \"applicable law\"",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.maket.ai/legal/privacy-policy",
+          "quote": "Legal Basis (GDPR and UK GDPR)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.maket.ai/",
+          "quote": "Platform",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Data Protection Officer, Montréal address; info@maket.ai",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.maket.ai/legal/privacy-policy",
+          "quote": "800 Rue du Square-Victoria, 3rd Floor",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Nebula Block",
+    "slug": "nebula-block",
+    "site": "https://www.nebulablock.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Sovereign AI cloud",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Canadian-owned and operated",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.nebulablock.com/",
+          "quote": "Proudly Canadian-owned and operated",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Runs on Canadian sovereign infrastructure",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.nebulablock.com/",
+          "quote": "Autonomous AI agents on Canadian sovereign infrastructure.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "Privacy page says data may be stored in another country",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.nebulablock.com/privacy",
+          "quote": "Your information will likely be collected in your country and subsequently transferred or stored in another country",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Agents run on Canadian sovereign infrastructure",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.nebulablock.com/",
+          "quote": "Autonomous AI agents on Canadian sovereign infrastructure.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.nebulablock.com/",
+          "quote": "The Sovereign Agentic Cloud",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.nebulablock.com/",
+          "quote": "Réduisez vos dépenses d'infrastructure jusqu'à 70 % par rapport aux principaux clouds.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "contact@nebulablock.com (email only)",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.nebulablock.com/privacy",
+          "quote": "contact@nebulablock.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Octogone Collectif Inc.",
+    "slug": "octogone",
+    "site": "https://octogone.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Restaurant management software with an AI agent",
+      "stage": "Startup",
+      "hq": "Québec",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Octogone Collectif Inc.; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://octogone.ai/fr/politique-de-confidentialite",
+          "quote": "© Octogone Collectif Inc. 2026",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Hosted in Québec; sign-in data handled in the US by Google",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://octogone.ai/fr/politique-de-confidentialite",
+          "quote": "Les renseignements traités par la Plateforme sont hébergés au Québec (Canada)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Canadian laws, no act named",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://octogone.ai/fr/politique-de-confidentialite",
+          "quote": "sont hébergés au Québec (Canada) et soumis aux lois canadiennes applicables",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://octogone.ai/fr",
+          "quote": "Logiciel de gestion pour les restaurants, RPA, CPE et services alimentaires.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://octogone.ai/en",
+          "quote": "Management software for restaurants, senior residences, childcare centers and food services.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line (Québec area code 581)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://octogone.ai/fr/contact",
+          "quote": "581-874-5990",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "5818745990"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Orfolio (Studio Orfolio)",
+    "slug": "orfolio",
+    "site": "https://orfolio.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI website builder",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Studio Orfolio, Montréal; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://orfolio.com/en/Home/Privacy",
+          "quote": "Studio Orfolio © 2026, All rights reserved.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Hosted on Azure Canada (Toronto region)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://orfolio.com/en/Home/Privacy",
+          "quote": "All personal data is hosted on Microsoft Azure Canada (Toronto region).",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "AI features may use OpenAI, Claude, Gemini or DeepSeek; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://orfolio.com/en/Home/Privacy",
+          "quote": "Some AI features may involve processing by third-party providers such as OpenAI (GPT), Claude AI, Google (Gemini), or DeepSeek.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "Quebec Law 25 and Canadian privacy rules",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://orfolio.com/en/Home/Privacy",
+          "quote": "Compliant with Quebec Law 25 and Canadian privacy regulations.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://orfolio.com/en",
+          "quote": "Hundreds of ready-made blocks — heroes, galleries, testimonials, contact forms and more.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://orfolio.com/Home",
+          "quote": "Aucune ligne de code. Jamais.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Data Protection Officer, Montréal; rgpd@orfolio.com",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://orfolio.com/en/Home/Privacy",
+          "quote": "Montreal, QC, Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Paperminds",
+    "slug": "paperminds",
+    "site": "https://paperminds.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Conversational intelligence",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Paperminds Technologies (Heka Health Inc.); owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://paperminds.ai/legal",
+          "quote": "Paperminds Technologies (Heka Health Inc.)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Some providers store data outside Québec, including the US",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://paperminds.ai/legal",
+          "quote": "Some service providers may store your data outside Québec, including in the United States.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "Quebec Law 25",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://paperminds.ai/legal",
+          "quote": "in compliance with applicable laws, including Québec’s Law 25",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://paperminds.ai/",
+          "quote": "Understand what people say and feel through audio conversations that surface richer insights.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://paperminds.ai/fr-ca",
+          "quote": "Comprenez ce que les gens disent, ressentent et révèlent grâce à des conversations audio qui font émerger des insights plus riches.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line (Montréal area code 514)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://paperminds.ai/contact",
+          "quote": "+1 (514) 243-9262",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "5142439262"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Pillarix",
+    "slug": "pillarix",
+    "site": "https://pillarix.ai",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI for project and construction teams",
+      "stage": "Startup",
+      "hq": "Toronto",
+      "province": "ON"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Pillarix Canada Inc., Toronto; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://pillarix.ai/company/privacy/",
+          "quote": "Pillarix Canada Inc.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Hosted in Canada by default; other regions on request",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://pillarix.ai/security/",
+          "quote": "Hosted in Canada by default, other regions on request",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "May transfer personal data outside Canada",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://pillarix.ai/company/privacy/",
+          "quote": "We may transfer your Personal Data to countries outside Canada",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Uses Google AI services; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://pillarix.ai/company/privacy/",
+          "quote": "We use Google’s enterprise-grade services.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "Canadian federal and provincial privacy standards",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://pillarix.ai/company/privacy/",
+          "quote": "aligned with Canadian federal and provincial privacy standards",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://pillarix.ai/",
+          "quote": "See Pillarix on your own project.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy contact, Toronto address; privacy@pillarix.ai",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://pillarix.ai/company/privacy/",
+          "quote": "133 Richmond St W, Suite 207",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Parados",
+    "slug": "parados",
+    "site": "https://www.parados.app",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI movement and gait analysis",
+      "stage": "Startup",
+      "hq": "Fredericton",
+      "province": "NB"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Parados Cerebral Solutions Inc.; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.parados.app/",
+          "quote": "© 2026 Parados Cerebral Solutions Inc. All Rights Reserved",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Regional data storage; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.parados.app/",
+          "quote": "regional data storage",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Edge computing (runs near the user); place not named",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.parados.app/",
+          "quote": "edge computing",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.parados.app/",
+          "quote": "Cut wait times, scale your approach by automating screening, documentation, and monitoring.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "General line (New Brunswick area code 506)",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.parados.app/",
+          "quote": "Phone : +1 (506) 261-1995",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "generalLine",
+          "name": null,
+          "phone": "5062611995"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Palconf Inc.",
+    "slug": "palconf",
+    "site": "https://www.palconf.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI event intelligence for exhibiting teams",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Palconf Inc.; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.palconf.com/privacy",
+          "quote": "Palconf Inc. (\"we\", \"us\", or \"our\") respects your privacy",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be processed outside Canada, including the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.palconf.com/privacy",
+          "quote": "Your data may be processed in countries other than your own, including the United States.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Google Gemini; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.palconf.com/privacy",
+          "quote": "currently Google Gemini",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "California CCPA/CPRA",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.palconf.com/privacy",
+          "quote": "the California Consumer Privacy Act (CCPA), as amended by the CPRA",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.palconf.com/",
+          "quote": "Two minutes, no signup. Email only when your briefing is ready.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy email only: privacy@palconf.com",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.palconf.com/privacy",
+          "quote": "privacy@palconf.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Hivelighter Inc.",
+    "slug": "hivelighter",
+    "site": "https://www.hivelighter.com",
+    "profile": {
+      "business_type": "Software",
+      "sector": "AI client insights inside HubSpot and Salesforce",
+      "stage": "Startup",
+      "hq": "Montréal",
+      "province": "QC"
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Hivelighter Inc., Montréal; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hivelighter.com/privacy#",
+          "quote": "Hivelighter Inc. (\"Hivelighter,\" \"we,\" \"our,\" or \"us\") is committed",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Canada or other places; not specified",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://www.hivelighter.com/privacy#",
+          "quote": "personal information may be processed, accessed, or stored in Canada or in other jurisdictions",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Uses AI features; place not named",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://www.hivelighter.com/privacy#",
+          "quote": "Hivelighter provides features that incorporate artificial intelligence",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "California CCPA/CPRA and GDPR where they apply",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://www.hivelighter.com/privacy#",
+          "quote": "Residents of California may have additional rights under the California Consumer Privacy Act",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://hivelighter.ai/",
+          "quote": "Client knowledge in seconds, right in your CRM",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "fr",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hivelighter.com/fr",
+          "quote": "Exploitez la puissance de votre lecture quotidienne en les transformant en communications concises, en apprentissage accéléré et en outils de découverte de connaissances.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Email only: support@hivelighter.com; Montréal address",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://www.hivelighter.com/privacy#",
+          "quote": "Email:support@hivelighter.com",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": null,
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Karbon Digital Limited",
+    "slug": "karbon-digital",
+    "site": "https://karbondigital.com",
+    "profile": {
+      "business_type": "Consulting",
+      "sector": "AI app, data and cloud engineering services",
+      "stage": "Startup",
+      "hq": "Canada (city not stated)",
+      "province": null
+    },
+    "listings": [
+      {
+        "name": "ALL IN",
+        "title": "Canada’s Top 100 AI Startups – ALL IN 2026",
+        "url": "https://allinevent.ai/blogs/blog/2026-top-100",
+        "checkedAt": "2026-11-15"
+      }
+    ],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-15",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Karbon Digital Limited; \"Innovated in Canada\"; owner not stated",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://karbondigital.com/",
+          "quote": "Karbon Digital | Innovated in Canada, Engineered for the World",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "May be moved across borders, incl. to the US",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://karbondigital.com/privacy-policy/",
+          "quote": "Your personal data may be transferred across state borders and country borders.",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [],
+      "law": [
+        {
+          "value": "COPPA (US) and GDPR (EU); no Canadian act named",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://karbondigital.com/privacy-policy/",
+          "quote": "General Data Protection Regulation (GDPR)",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "partly"
+          },
+          "url": "https://karbondigital.com/",
+          "quote": "Book Your AI Demo",
+          "checkedAt": "2026-11-15",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Email only: info@karbondigital.com",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://karbondigital.com/privacy-policy/",
+          "quote": "info@karbondigital.com",
           "checkedAt": "2026-11-15",
           "status": {
             "kind": "current"
