@@ -1,0 +1,5 @@
+# A pull request that touches the checker or its rules needs the owner.
+/schema.ts @mackenziebowes
+/validate.ts @mackenziebowes
+/.github/ @mackenziebowes
+/LICENSE* @mackenziebowes

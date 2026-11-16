@@ -1,0 +1,9 @@
+The data in companies.json is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). The full text is in LICENSE-CC-BY-4.0.txt and at https://creativecommons.org/licenses/by/4.0/.
+
+Credit: "Canadian AI Directory (canadianaidirectory.ca), CC BY 4.0", with a link to https://canadianaidirectory.ca.
+
+What the licence covers: our selection of companies, our marks (canadian, partly, elsewhere, notStated), and the structure of the file.
+
+What it does not cover: each quote in the file is the words of the company that wrote it, quoted briefly with the address of the page it comes from. A quote stays its owner's. To reuse more than a short quotation, ask the company.
+
+validate.ts and schema.ts are under the MIT licence (see LICENSE).
