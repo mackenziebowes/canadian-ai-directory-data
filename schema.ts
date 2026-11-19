@@ -40,7 +40,7 @@ export type Rec = {
   name: string
   site: Url
   profile: { business_type: string; sector: string; stage: Stage; hq: string; province: Province | null } // what the company is and where; every record has one
-  listings: Listing[] // who lists the company, at least one (#4679)
+  listings: Listing[] // the outside lists that name the company, credited on its page; empty for a company that came to us directly (#4960)
   jobsBoard: Url | null
   newsroom: Url | null
   readAt: IsoDate | null // the day a reader last read the company's own pages for facts; null when nobody has
@@ -114,7 +114,7 @@ export function parseRecords(raw: unknown): Rec[] {
     for (const k of ["business_type", "sector", "stage", "hq"]) if (typeof g[k] !== "string") bad(`profile.${k}`, g[k], "is a string")
     if (!(STAGES as readonly unknown[]).includes(g.stage)) bad("profile.stage", g.stage, `is one of ${STAGES.join(", ")}`)
     if (g.province !== null && !(PROVINCES as readonly unknown[]).includes(g.province)) bad("profile.province", g.province, "is a province code or null")
-    if (!Array.isArray(r.listings) || r.listings.length === 0) bad("listings", r.listings, "is a list with at least one listing")
+    if (!Array.isArray(r.listings)) bad("listings", r.listings, "is a list (empty when no outside list names the company)")
     ;(r.listings as unknown[]).forEach((l, j) => {
       if (!isObj(l)) return bad(`listings[${j}]`, l, "is an object")
       if (typeof l.name !== "string" || l.name === "") bad(`listings[${j}].name`, l.name, "is a non-empty string")

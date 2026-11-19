@@ -28623,5 +28623,203 @@
         }
       ]
     }
+  },
+  {
+    "name": "Doe",
+    "slug": "doe",
+    "site": "https://doe.care/",
+    "profile": {
+      "business_type": "Software",
+      "sector": "Healthcare",
+      "stage": "Startup",
+      "hq": "Ottawa",
+      "province": "ON"
+    },
+    "listings": [],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-19",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "A Delaware C-Corporation, pending",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://doe.care",
+          "quote": "Delaware",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [],
+      "models": [],
+      "law": [
+        {
+          "value": "Says it meets HIPAA, the US health privacy law",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://doe.care",
+          "quote": "HIPAA compliant.",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://doe.care",
+          "quote": "Superintelligence for clinics,",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Email James, the founder",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://doe.care",
+          "quote": "james@doe.care",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "person",
+          "name": "James",
+          "phone": null
+        }
+      ]
+    }
+  },
+  {
+    "name": "Transformer Lab",
+    "slug": "transformer-lab",
+    "site": "https://lab.cloud/",
+    "profile": {
+      "business_type": "Research",
+      "sector": "AI Research",
+      "stage": "Startup",
+      "hq": "Kitchener",
+      "province": "ON"
+    },
+    "listings": [],
+    "jobsBoard": null,
+    "newsroom": null,
+    "readAt": "2026-11-19",
+    "products": [],
+    "facts": {
+      "owner": [
+        {
+          "value": "Based in Canada; owner not stated",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab.cloud/privacy",
+          "quote": "Transformer Lab is based in Canada.",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "data": [
+        {
+          "value": "Hosted in the US: AWS US East and Fly.io in Virginia",
+          "mark": {
+            "kind": "elsewhere"
+          },
+          "url": "https://lab.cloud/privacy",
+          "quote": "our primary cloud infrastructure, databases, and application servers are hosted in the United States, using Amazon Web Services (US East region) and Fly.io (IAD region, Ashburn, Virginia).",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "models": [
+        {
+          "value": "Prompts may go to outside model makers such as OpenAI and Anthropic",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://lab.cloud/privacy",
+          "quote": "Your prompts and context documents may be transmitted to external Large Language Model (LLM) providers (such as OpenAI, Anthropic, and other open-router LLM infrastructure partners)",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "law": [
+        {
+          "value": "Follows PIPEDA, Canada's privacy law",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab.cloud/privacy",
+          "quote": "This policy is designed to comply with Canadian privacy laws, including the federal Personal Information Protection and Electronic Documents Act (PIPEDA) and applicable provincial privacy legislation.",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        },
+        {
+          "value": "Terms governed by Ontario law",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab.cloud/terms",
+          "quote": "These Terms shall be governed by and construed in accordance with the laws of the Province of Ontario, and the federal laws of Canada applicable therein.",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "languages": [
+        {
+          "value": "en",
+          "mark": {
+            "kind": "notStated"
+          },
+          "url": "https://lab.cloud/",
+          "quote": "Primus is the world’s first fully autonomous AI researcher available to everyone.",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          }
+        }
+      ],
+      "contact": [
+        {
+          "value": "Privacy Officer, Kitchener office",
+          "mark": {
+            "kind": "canadian"
+          },
+          "url": "https://lab.cloud/privacy",
+          "quote": "301 - 165 King St W, Kitchener, ON N2G 1A7, Canada",
+          "checkedAt": "2026-11-19",
+          "status": {
+            "kind": "current"
+          },
+          "reach": "contactPage",
+          "name": "Privacy Officer",
+          "phone": null
+        }
+      ]
+    }
   }
 ]
